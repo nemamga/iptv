@@ -1,0 +1,1160 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="RTS 1 HD" tvg-name="RTS 1 FHD" tvg-logo="http://reddeviliptv.com/logo/RTS%201.png" group-title="Srpski",RTS 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/172.ts
+#EXTINF:-1 tvg-ID="RTS 2 HD" tvg-name="RTS 2 FHD" tvg-logo="http://reddeviliptv.com/logo/RTS%202.png" group-title="Srpski",RTS 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/173.ts
+#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RTS 3 FHD" tvg-logo="http://reddeviliptv.com/logo/RTS%203.png" group-title="Srpski",RTS 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/217.ts
+#EXTINF:-1 tvg-ID="RTS SAT" tvg-name="RTS Svet FHD" tvg-logo="http://reddeviliptv.com/logo/RTS%20Svet.png" group-title="Srpski",RTS Svet FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/219.ts
+#EXTINF:-1 tvg-ID="RTS 1" tvg-name="RTS 1" tvg-logo="http://reddeviliptv.com/logo/RTS%201.png" group-title="Srpski",RTS 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6379.ts
+#EXTINF:-1 tvg-ID="RTS 2" tvg-name="RTS 2" tvg-logo="http://reddeviliptv.com/logo/RTS%202.png" group-title="Srpski",RTS 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6380.ts
+#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RTS 3" tvg-logo="http://reddeviliptv.com/logo/RTS%203.png" group-title="Srpski",RTS 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6707.ts
+#EXTINF:-1 tvg-ID="Prva" tvg-name="Prva FHD" tvg-logo="http://reddeviliptv.com/logo/Prva.png" group-title="Srpski",Prva FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7178.ts
+#EXTINF:-1 tvg-ID="Prva" tvg-name="Prva" tvg-logo="http://reddeviliptv.com/logo/Prva.png" group-title="Srpski",Prva
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/170.ts
+#EXTINF:-1 tvg-ID="Prva Plus" tvg-name="Prva Plus" tvg-logo="http://reddeviliptv.com/logo/Prva%20Plus.png" group-title="Srpski",Prva Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/185.ts
+#EXTINF:-1 tvg-ID="Prva MAX" tvg-name="Prva MAX" tvg-logo="http://reddeviliptv.com//logo/Prva%20MAX2.png" group-title="Srpski",Prva MAX
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/202.ts
+#EXTINF:-1 tvg-ID="Prva World" tvg-name="Prva World" tvg-logo="http://reddeviliptv.com//logo/Prva%20World2.png" group-title="Srpski",Prva World
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/218.ts
+#EXTINF:-1 tvg-ID="Prva Kick" tvg-name="Prva Kick" tvg-logo="http://reddeviliptv.com/logo/Prva%20Kick.png" group-title="Srpski",Prva Kick
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5834.ts
+#EXTINF:-1 tvg-ID="Nova S" tvg-name="Nova S FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Nova%20S.png" group-title="Srpski",Nova S FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4709.ts
+#EXTINF:-1 tvg-ID="O2.TV" tvg-name="b92 FHD" tvg-logo="http://reddeviliptv.com/logo/O2%20TV.png" group-title="Srpski",b92 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7177.ts
+#EXTINF:-1 tvg-ID="O2.TV" tvg-name="b92" tvg-logo="http://reddeviliptv.com/logo/O2%20TV.png" group-title="Srpski",b92
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/151.ts
+#EXTINF:-1 tvg-ID="Happy TV" tvg-name="Happy TV" tvg-logo="http://reddeviliptv.com/logo/Happy%20TV.png" group-title="Srpski",Happy TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/160.ts
+#EXTINF:-1 tvg-ID="Happy Reality 1" tvg-name="Happy Parovi TV" tvg-logo="http://reddeviliptv.com/logo/Happy%20Parovi%20TV.png" group-title="Srpski",Happy Parovi TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1806.ts
+#EXTINF:-1 tvg-ID="Happy Reality 2" tvg-name="Happy Parovi TV 2" tvg-logo="http://reddeviliptv.com/logo/Happy%20Parovi%20TV%202.png" group-title="Srpski",Happy Parovi TV 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/109.ts
+#EXTINF:-1 tvg-ID="TV Pink" tvg-name="Pink" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Srpski",Pink
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/168.ts
+#EXTINF:-1 tvg-ID="TV Pink" tvg-name="Pink FHD" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Srpski",Pink FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7179.ts
+#EXTINF:-1 tvg-ID="Pink 2" tvg-name="RedTV" tvg-logo="http://reddeviliptv.com/logo/Pink%202.png" group-title="Srpski",RedTV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/178.ts
+#EXTINF:-1 tvg-ID="Pink 3 Info" tvg-name="Pink 3 Info" tvg-logo="http://reddeviliptv.com/logo/Pink%203%20Info.png" group-title="Srpski",Pink 3 Info
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/179.ts
+#EXTINF:-1 tvg-ID="Pink Montenegro" tvg-name="Pink M" tvg-logo="http://reddeviliptv.com/logo/Pink%20M.png" group-title="Montenegro",Pink M
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6057.ts
+#EXTINF:-1 tvg-ID="RTV 1" tvg-name="RTV 1" tvg-logo="http://reddeviliptv.com/logo/RTV%201.png" group-title="Srpski",RTV 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/143.ts
+#EXTINF:-1 tvg-ID="TV K::CN" tvg-name="KCN 1" tvg-logo="http://reddeviliptv.com/logo/KCN%201.png" group-title="Srpski",KCN 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/148.ts
+#EXTINF:-1 tvg-ID="N1 SRB FHD" tvg-name="N1 SRB FHD" tvg-logo="http://reddeviliptv.com/logo/N1%20SRB%20HD.png" group-title="Srpski",N1 SRB FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/87.ts
+#EXTINF:-1 tvg-ID="HRT 1" tvg-name="HRT 1" tvg-logo="http://reddeviliptv.com/logo/HRT%201.png" group-title="Hrvatski",HRT 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6485.ts
+#EXTINF:-1 tvg-ID="HRT 1 FHD" tvg-name="HRT 1 FHD" tvg-logo="http://reddeviliptv.com/logo/HRT%201.png" group-title="Hrvatski",HRT 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/221.ts
+#EXTINF:-1 tvg-ID="HRT 2" tvg-name="HRT 2" tvg-logo="http://reddeviliptv.com/logo/HRT%202.png" group-title="Hrvatski",HRT 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6484.ts
+#EXTINF:-1 tvg-ID="HRT 2 FHD" tvg-name="HRT 2 FHD" tvg-logo="http://reddeviliptv.com/logo/HRT%202.png" group-title="Hrvatski",HRT 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5725.ts
+#EXTINF:-1 tvg-ID="HRT 3" tvg-name="HRT 3" tvg-logo="http://reddeviliptv.com/logo/HRT%203.png" group-title="Hrvatski",HRT 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6486.ts
+#EXTINF:-1 tvg-ID="HRT 3 FHD" tvg-name="HRT 3 FHD" tvg-logo="http://reddeviliptv.com/logo/HRT%203.png" group-title="Hrvatski",HRT 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/210.ts
+#EXTINF:-1 tvg-ID="HRT 4 FHD" tvg-name="HRT 4 FHD" tvg-logo="http://reddeviliptv.com/logo/HRT%204.png" group-title="Hrvatski",HRT 4 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/209.ts
+#EXTINF:-1 tvg-ID="HRT 5" tvg-name="HRT Int." tvg-logo="http://reddeviliptv.com/logo/HRT%20Int..png" group-title="Hrvatski",HRT Int.
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4744.ts
+#EXTINF:-1 tvg-ID="RTL" tvg-name="RTL FHD" tvg-logo="http://reddeviliptv.com/logo/RTL.png" group-title="Hrvatski",RTL FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/171.ts
+#EXTINF:-1 tvg-ID="RTL 2" tvg-name="RTL 2 HD" tvg-logo="http://reddeviliptv.com/logo/RTL%202.png" group-title="Hrvatski",RTL 2 HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/211.ts
+#EXTINF:-1 tvg-ID="RTL Crime" tvg-name="RTL Crime" tvg-logo="http://reddeviliptv.com/logo/RTL%20Crime.png" group-title="Hrvatski",RTL Crime
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/130.ts
+#EXTINF:-1 tvg-ID="RTL Living" tvg-name="RTL Living" tvg-logo="http://reddeviliptv.com/logo/RTL%20Living.png" group-title="Hrvatski",RTL Living
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/135.ts
+#EXTINF:-1 tvg-ID="RTL Passion" tvg-name="RTL Passion" tvg-logo="http://reddeviliptv.com/logo/RTL%20Passion.png" group-title="Hrvatski",RTL Passion
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/128.ts
+#EXTINF:-1 tvg-ID="NOVA TV" tvg-name="Nova TV FHD" tvg-logo="http://reddeviliptv.com/logo/Nova%20TV%20HD.png" group-title="Hrvatski",Nova TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4653.ts
+#EXTINF:-1 tvg-ID="Doma TV" tvg-name="Doma TV HD" tvg-logo="http://reddeviliptv.com/logo/Doma%20TV.png" group-title="Hrvatski",Doma TV HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4654.ts
+#EXTINF:-1 tvg-ID="Osječka TV" tvg-name="Osječka TV" tvg-logo="http://reddeviliptv.com/logo/Osje%C4%8Dka%20TV.png" group-title="Hrvatski",Osječka TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/127.ts
+#EXTINF:-1 tvg-ID="Z1" tvg-name="Z1" tvg-logo="http://reddeviliptv.com/logo/Z1.png" group-title="Hrvatski",Z1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/124.ts
+#EXTINF:-1 tvg-ID="Vinkovačka" tvg-name="Vinkovačka TV" tvg-logo="http://reddeviliptv.com/logo/Vinkova%C4%8Dka%20TV.png" group-title="Hrvatski",Vinkovačka TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/126.ts
+#EXTINF:-1 tvg-ID="Laudato TV" tvg-name="Laudato TV" tvg-logo="http://reddeviliptv.com/logo/Laudato%20TV.png" group-title="Hrvatski",Laudato TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5072.ts
+#EXTINF:-1 tvg-ID="N1 HR" tvg-name="N1 HR" tvg-logo="http://reddeviliptv.com/logo/N1%20HRV%20HD.png" group-title="Hrvatski",N1 HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/88.ts
+#EXTINF:-1 tvg-ID="ATV" tvg-name="Alternativna TV" tvg-logo="http://reddeviliptv.com/logo/Alternativna.png" group-title="Bosanski",Alternativna TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/183.ts
+#EXTINF:-1 tvg-ID="BHT 1" tvg-name="BHT 1" tvg-logo="http://reddeviliptv.com/logo/BHT1.png" group-title="Bosanski",BHT 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/153.ts
+#EXTINF:-1 tvg-ID="Face TV" tvg-name="Face TV" tvg-logo="http://reddeviliptv.com/logo/Face%20TV%20HD.png" group-title="Bosanski",Face TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/220.ts
+#EXTINF:-1 tvg-ID="TV Sarajevo" tvg-name="TV Sarajevo" tvg-logo="http://reddeviliptv.com/logo/TV%20Sarajevo.png" group-title="Bosanski",TV Sarajevo
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6612.ts
+#EXTINF:-1 tvg-ID="Hayat" tvg-name="Hayat TV" tvg-logo="http://reddeviliptv.com/logo/Hayat%20TV%20HD.png" group-title="Bosanski",Hayat TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/163.ts
+#EXTINF:-1 tvg-ID="Hayat Plus" tvg-name="Hayat Plus" tvg-logo="http://reddeviliptv.com/logo/Hayat%20Plus.png" group-title="Bosanski",Hayat Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/77.ts
+#EXTINF:-1 tvg-ID="PINK BH" tvg-name="Pink BH" tvg-logo="http://reddeviliptv.com/logo/Pink%20BH.png" group-title="Bosanski",Pink BH
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6058.ts
+#EXTINF:-1 tvg-ID="OTV Valentino" tvg-name="OTV Valentino" tvg-logo="http://reddeviliptv.com/logo/OTV%20Valentino.png" group-title="Bosanski",OTV Valentino
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4676.ts
+#EXTINF:-1 tvg-ID="BN" tvg-name="BN" tvg-logo="http://reddeviliptv.com/logo/BN.png" group-title="Bosanski",BN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/157.ts
+#EXTINF:-1 tvg-ID="OBN" tvg-name="OBN" tvg-logo="http://reddeviliptv.com/logo/OBN.png" group-title="Bosanski",OBN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/167.ts
+#EXTINF:-1 tvg-ID="RTRS" tvg-name="RTRS" tvg-logo="http://reddeviliptv.com/logo/RTRS.png" group-title="Bosanski",RTRS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/155.ts
+#EXTINF:-1 tvg-ID="FTV" tvg-name="Federalna TV" tvg-logo="http://reddeviliptv.com/logo/Federalna%20TV.png" group-title="Bosanski",Federalna TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/154.ts
+#EXTINF:-1 tvg-ID="Nova BH FHD" tvg-name="Nova BH FHD" tvg-logo="http://reddeviliptv.com/logo/Nova%20BH.png" group-title="Bosanski",Nova BH FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6481.ts
+#EXTINF:-1 tvg-ID="TV 1" tvg-name="O Kanal" tvg-logo="http://reddeviliptv.com/logo/TV1.png" group-title="Bosanski",O Kanal
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/176.ts
+#EXTINF:-1 tvg-ID="TV TK Tuzla" tvg-name="TK" tvg-logo="http://reddeviliptv.com/logo/TK.png" group-title="Bosanski",TK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/175.ts
+#EXTINF:-1 tvg-ID="N1 BH" tvg-name="N1 BH" tvg-logo="http://reddeviliptv.com/logo/N1%20BiH%20HD.png" group-title="Bosanski",N1 BH
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/86.ts
+#EXTINF:-1 tvg-ID="Al Jazeera Balkans" tvg-name="Al Jazeera Balkans FHD" tvg-logo="http://reddeviliptv.com/logo/Al%20Jazeera%20Balkans.png" group-title="Bosanski",Al Jazeera Balkans FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/150.ts
+#EXTINF:-1 tvg-ID="Televizija 5" tvg-name="Televizija 5" tvg-logo="http://reddeviliptv.com/logo/Televizija%205%20Islam.png" group-title="Bosanski",Televizija 5
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7221.ts
+#EXTINF:-1 tvg-ID="TV Igman HD" tvg-name="TV Igman HD" tvg-logo="http://reddeviliptv.com/logo/MTV%20Igman.png" group-title="Bosanski",TV Igman HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7222.ts
+#EXTINF:-1 tvg-ID="TVCG Sat FHD" tvg-name="TVCG Sat FHD" tvg-logo="http://reddeviliptv.com/logo/RTCG%20Sat.png" group-title="Montenegro",TVCG Sat FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7268.ts
+#EXTINF:-1 tvg-ID="Nova M" tvg-name="Nova M" tvg-logo="http://reddeviliptv.com/logo/Nova%20M.png" group-title="Montenegro",Nova M
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7207.ts
+#EXTINF:-1 tvg-ID="МТВ 1 FHD" tvg-name="MRT 1 FHD" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%A2%D0%92%201%20HD.png" group-title="Makedonski",MRT 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/391.ts
+#EXTINF:-1 tvg-ID="МТВ 1" tvg-name="MRT 1" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%A2%D0%92%201.png" group-title="Makedonski",MRT 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4093.ts
+#EXTINF:-1 tvg-ID="МТВ Собраниски канал FHD" tvg-name="MRT Sobraniski Kanal FHD" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%A2%D0%92%20C%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%81%D0%BA%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" group-title="Makedonski",MRT Sobraniski Kanal FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5631.ts
+#EXTINF:-1 tvg-ID="МТВ Собраниски канал" tvg-name="MRT Sobraniski Kanal" tvg-logo="http://reddeviliptv.com/logo/МТВ%20Cобраниски%20канал.png" group-title="Makedonski",MRT Sobraniski Kanal
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1800.ts
+#EXTINF:-1 tvg-ID="MTB 3 FHD" tvg-name="MRT 3 FHD" tvg-logo="http://reddeviliptv.com/logo/MRT%203.png" group-title="Makedonski",MRT 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6985.ts
+#EXTINF:-1 tvg-ID="MTB 5" tvg-name="MRT 5" tvg-logo="http://reddeviliptv.com/logo/MRT%205.png" group-title="Makedonski",MRT 5
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6986.ts
+#EXTINF:-1 tvg-ID="Сител HD" tvg-name="Sitel HD" tvg-logo="http://reddeviliptv.com/logo/%D0%A1%D0%B8%D1%82%D0%B5%D0%BB%20HD.png" group-title="Makedonski",Sitel HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/370.ts
+#EXTINF:-1 tvg-ID="Сител" tvg-name="Sitel" tvg-logo="http://reddeviliptv.com/logo/%D0%A1%D0%B8%D1%82%D0%B5%D0%BB.png" group-title="Makedonski",Sitel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 5 FHD" tvg-logo="" group-title="Makedonski",Kanal 5 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7576.ts
+#EXTINF:-1 tvg-ID="Канал 5" tvg-name="Kanal 5" tvg-logo="http://reddeviliptv.com/logo/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%205.png" group-title="Makedonski",Kanal 5
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/375.ts
+#EXTINF:-1 tvg-ID="Алфа ТВ" tvg-name="Alfa TV" tvg-logo="http://reddeviliptv.com/logo/%D0%90%D0%BB%D1%84%D0%B0%20%D0%A2%D0%92.png" group-title="Makedonski",Alfa TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/377.ts
+#EXTINF:-1 tvg-ID="Телма FHD" tvg-name="Telma FHD" tvg-logo="http://reddeviliptv.com/logo/%D0%A2%D0%B5%D0%BB%D0%BC%D0%B0.png" group-title="Makedonski",Telma FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6075.ts
+#EXTINF:-1 tvg-ID="Телма" tvg-name="Telma" tvg-logo="http://reddeviliptv.com/logo/%D0%A2%D0%B5%D0%BB%D0%BC%D0%B0.png" group-title="Makedonski",Telma
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/373.ts
+#EXTINF:-1 tvg-ID="24 Вести" tvg-name="24 Vesti" tvg-logo="http://reddeviliptv.com/logo/24%20%D0%92%D0%B5%D1%81%D1%82%D0%B8.png" group-title="Makedonski",24 Vesti
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/374.ts
+#EXTINF:-1 tvg-ID="Наша ТВ" tvg-name="Nasa TV" tvg-logo="http://reddeviliptv.com/logo/%D0%9D%D0%B0%D1%88%D0%B0%20%D0%A2%D0%92.png" group-title="Makedonski",Nasa TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/396.ts
+#EXTINF:-1 tvg-ID="Сонце ТВ" tvg-name="Sonce TV" tvg-logo="http://reddeviliptv.com/logo/%D0%A1%D0%BE%D0%BD%D1%86%D0%B5%20%D0%A2%D0%92.png" group-title="Makedonski",Sonce TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/393.ts
+#EXTINF:-1 tvg-ID="Хуго ТВ Прилеп" tvg-name="Hugo TV" tvg-logo="http://reddeviliptv.com/logo/%D0%A5%D1%83%D0%B3%D0%BE%20%D0%A2%D0%92%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B5%D0%BF.png" group-title="Makedonski",Hugo TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/399.ts
+#EXTINF:-1 tvg-ID="Хуго 2 ТВ Прилеп" tvg-name="Hugo TV 2" tvg-logo="http://reddeviliptv.com/logo/Хуго%202%20ТВ%20Прилеп.png" group-title="Makedonski",Hugo TV 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1792.ts
+#EXTINF:-1 tvg-ID="Хуго 3 ТВ Прилеп" tvg-name="Hugo TV 3" tvg-logo="http://reddeviliptv.com/logo/%D0%A5%D1%83%D0%B3%D0%BE%203%20%D0%A2%D0%92%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B5%D0%BF.jpg" group-title="Makedonski",Hugo TV 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5129.ts
+#EXTINF:-1 tvg-ID="Stop TV" tvg-name="Stop TV" tvg-logo="http://reddeviliptv.com/logo/Stop%20TV.jpg" group-title="Makedonski",Stop TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5031.ts
+#EXTINF:-1 tvg-ID="dummy003" tvg-name="Makedonska Muzika HD" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%20%D0%A2%D0%92%20HD.png" group-title="Makedonski",Makedonska Muzika HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1660.ts
+#EXTINF:-1 tvg-ID="Balkan Music" tvg-name="Balkan Music" tvg-logo="http://reddeviliptv.com/logo/Balkan%20Music.png" group-title="Makedonski",Balkan Music
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4767.ts
+#EXTINF:-1 tvg-ID="Sky Folk HD" tvg-name="Sky Folk HD" tvg-logo="http://reddeviliptv.com/logo/Sky%20Folk%20HD.png" group-title="Makedonski",Sky Folk HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1740.ts
+#EXTINF:-1 tvg-ID="Фолк ТВ Македонија HD" tvg-name="Folk TV Makedonija HD" tvg-logo="http://reddeviliptv.com/logo/%D0%A4%D0%BE%D0%BB%D0%BA%20%D0%A2%D0%92%20%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0%20HD.png" group-title="Makedonski",Folk TV Makedonija HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4739.ts
+#EXTINF:-1 tvg-ID="Фолк Клуб HD" tvg-name="Folk Klub HD" tvg-logo="http://reddeviliptv.com/logo/%D0%A4%D0%BE%D0%BB%D0%BA%20%D0%9A%D0%BB%D1%83%D0%B1%20HD.png" group-title="Makedonski",Folk Klub HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4741.ts
+#EXTINF:-1 tvg-ID="IN TV" tvg-name="IN TV" tvg-logo="http://reddeviliptv.com/logo/IN%20TV.jpg" group-title="Makedonski",IN TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4740.ts
+#EXTINF:-1 tvg-ID="ЕДО" tvg-name="EDO" tvg-logo="http://reddeviliptv.com/logo/%D0%95%D0%94%D0%9E.png" group-title="Makedonski",EDO
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1802.ts
+#EXTINF:-1 tvg-ID="МТМ" tvg-name="MTM" tvg-logo="http://reddeviliptv.com/logo/МТМ.jpg" group-title="Makedonski",MTM
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1705.ts
+#EXTINF:-1 tvg-ID="Тера ТВ FHD" tvg-name="Tera TV FHD" tvg-logo="http://reddeviliptv.com/logo/Тера%20ТВ.png" group-title="Makedonski",Tera TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1763.ts
+#EXTINF:-1 tvg-ID="OrbisTv" tvg-name="Orbis Tv" tvg-logo="" group-title="Makedonski",Orbis Tv
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M Net FHD Stip" tvg-logo="" group-title="Makedonski",M Net FHD Stip
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7630.ts
+#EXTINF:-1 tvg-ID="Iris TV" tvg-name="Iris TV Stip" tvg-logo="" group-title="Makedonski",Iris TV Stip
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6671.ts
+#EXTINF:-1 tvg-ID="Kanal8Kocani" tvg-name="Kanal 8 Kocani" tvg-logo="" group-title="Makedonski",Kanal 8 Kocani
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6673.ts
+#EXTINF:-1 tvg-ID="21Veles" tvg-name="Kanal 21 Veles" tvg-logo="" group-title="Makedonski",Kanal 21 Veles
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6672.ts
+#EXTINF:-1 tvg-ID="SvetPlusTVSvetiNikola" tvg-name="Svet Plus TV SV Nikole" tvg-logo="" group-title="Makedonski",Svet Plus TV SV Nikole
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6674.ts
+#EXTINF:-1 tvg-ID="Nova12Gev" tvg-name="Nova 12 Gevgelija" tvg-logo="" group-title="Makedonski",Nova 12 Gevgelija
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6677.ts
+#EXTINF:-1 tvg-ID="KTVKav" tvg-name="KTV Kavadarci" tvg-logo="" group-title="Makedonski",KTV Kavadarci
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6676.ts
+#EXTINF:-1 tvg-ID="TV3Debar" tvg-name="TV 3 Debar" tvg-logo="" group-title="Makedonski",TV 3 Debar
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6678.ts
+#EXTINF:-1 tvg-ID="Алсат M" tvg-name="Alsat M" tvg-logo="http://reddeviliptv.com/logo/%D0%90%D0%BB%D1%81%D0%B0%D1%82%20M.png" group-title="Makedonski",Alsat M
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/376.ts
+#EXTINF:-1 tvg-ID="Шутел" tvg-name="Sutel" tvg-logo="http://reddeviliptv.com/logo/%D0%A8%D1%83%D1%82%D0%B5%D0%BB%20%D0%A2%D0%92.jpeg" group-title="Makedonski",Sutel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera naplatna Sopot" tvg-logo="" group-title="Zabavni",Live camera naplatna Sopot
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera naplatna Zelino" tvg-logo="" group-title="Zabavni",Live camera naplatna Zelino
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera naplatna Tetovo 2" tvg-logo="" group-title="Zabavni",Live camera naplatna Tetovo 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6943.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera naplatna Gevgelija" tvg-logo="" group-title="Zabavni",Live camera naplatna Gevgelija
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera naplatna Demir Kapija" tvg-logo="" group-title="Zabavni",Live camera naplatna Demir Kapija
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6939.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera granicen premin Medjitlija" tvg-logo="" group-title="Zabavni",Live camera granicen premin Medjitlija
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera granicen premin Dave Bair" tvg-logo="" group-title="Zabavni",Live camera granicen premin Dave Bair
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Live camera granicen premin Bogorodica" tvg-logo="" group-title="Zabavni",Live camera granicen premin Bogorodica
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6941.ts
+#EXTINF:-1 tvg-ID="arena1.rs" tvg-name="arena1.rs" tvg-logo="http://reddeviliptv.com/logo/A1.png" group-title="Sportski",Arena Sport 111
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/43.ts
+#EXTINF:-1 tvg-ID="Arena Sport 2 HD" tvg-name="Arena Sport 2" tvg-logo="http://reddeviliptv.com/logo/A2.png" group-title="Sportski",Arena Sport 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/382.ts
+#EXTINF:-1 tvg-ID="Arena Sport 3 HD" tvg-name="Arena Sport 3" tvg-logo="http://reddeviliptv.com/logo/A3.png" group-title="Sportski",Arena Sport 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/383.ts
+#EXTINF:-1 tvg-ID="Arena Sport 4 HD" tvg-name="Arena Sport 4" tvg-logo="http://reddeviliptv.com/logo/A4.png" group-title="Sportski",Arena Sport 4
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/384.ts
+#EXTINF:-1 tvg-ID="Arena Sport 5 HD" tvg-name="Arena Sport 5" tvg-logo="http://reddeviliptv.com/logo/A5.png" group-title="Sportski",Arena Sport 5
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/398.ts
+#EXTINF:-1 tvg-ID="Arena Sport 1 FHD" tvg-name="Arena Sport 1 FHD" tvg-logo="http://reddeviliptv.com/logo/A1.png" group-title="Sportski",Arena Sport 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5075.ts
+#EXTINF:-1 tvg-ID="Arena Sport 2 FHD" tvg-name="Arena Sport 2 FHD" tvg-logo="http://reddeviliptv.com/logo/A2.png" group-title="Sportski",Arena Sport 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5076.ts
+#EXTINF:-1 tvg-ID="Arena Sport 3 FHD" tvg-name="Arena Sport 3 FHD" tvg-logo="http://reddeviliptv.com/logo/A3.png" group-title="Sportski",Arena Sport 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5077.ts
+#EXTINF:-1 tvg-ID="Arena Sport 4 FHD" tvg-name="Arena Sport 4 FHD" tvg-logo="http://reddeviliptv.com/logo/A4.png" group-title="Sportski",Arena Sport 4 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5078.ts
+#EXTINF:-1 tvg-ID="Arena Sport 5 FHD" tvg-name="Arena Sport 5 FHD" tvg-logo="http://reddeviliptv.com/logo/A5.png" group-title="Sportski",Arena Sport 5 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6062.ts
+#EXTINF:-1 tvg-ID="PlanetSport 1" tvg-name="Planet Sport 1" tvg-logo="http://reddeviliptv.com/logo/Planet%20Sport%201.png" group-title="Sportski",Planet Sport 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5486.ts
+#EXTINF:-1 tvg-ID="PlanetSport 2" tvg-name="Planet Sport 2" tvg-logo="http://reddeviliptv.com/logo/Planet%20Sport%202.png" group-title="Sportski",Planet Sport 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5487.ts
+#EXTINF:-1 tvg-ID="PlanetSport 3" tvg-name="Planet Sport 3" tvg-logo="http://reddeviliptv.com/logo/Planet%20Sport%203.png" group-title="Sportski",Planet Sport 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5488.ts
+#EXTINF:-1 tvg-ID="Arena Sport 1 HR FHD" tvg-name="Arena Sport 1 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A1.png" group-title="Sportski",Arena Sport 1 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/137.ts
+#EXTINF:-1 tvg-ID="Arena Sport 2 HR FHD" tvg-name="Arena Sport 2 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A2.png" group-title="Sportski",Arena Sport 2 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/138.ts
+#EXTINF:-1 tvg-ID="Arena Sport 3 HR FHD" tvg-name="Arena Sport 3 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A3.png" group-title="Sportski",Arena Sport 3 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/139.ts
+#EXTINF:-1 tvg-ID="Arena Sport 4 HR FHD" tvg-name="Arena Sport 4 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A4.png" group-title="Sportski",Arena Sport 4 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/140.ts
+#EXTINF:-1 tvg-ID="Arena Sport 5 HR FHD" tvg-name="Arena Sport 5 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A5.png" group-title="Sportski",Arena Sport 5 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/141.ts
+#EXTINF:-1 tvg-ID="Arena Sport 6 HR FHD" tvg-name="Arena Sport 6 HR FHD" tvg-logo="http://reddeviliptv.com/logo/A6.png" group-title="Sportski",Arena Sport 6 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/132.ts
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1 FHD" tvg-logo="http://reddeviliptv.com/logo/Eurosport%201.png" group-title="Sportski",Eurosport 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/365.ts
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="Eurosport 2 FHD" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202.png" group-title="Sportski",Eurosport 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/366.ts
+#EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://reddeviliptv.com/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
+http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/29855
+#EXTINF:-1 tvg-ID="SK1 RS HD" tvg-name="Sport Klub 1 RS HD" tvg-logo="http://reddeviliptv.com/logo/SK1HD.png" group-title="Sportski",Sport Klub 1 RS HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/79.ts
+#EXTINF:-1 tvg-ID="SK2 RS HD" tvg-name="Sport Klub 2 RS HD" tvg-logo="http://reddeviliptv.com/logo/SK2HD.png" group-title="Sportski",Sport Klub 2 RS HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/80.ts
+#EXTINF:-1 tvg-ID="SK3 RS HD" tvg-name="Sport Klub 3 RS HD" tvg-logo="http://reddeviliptv.com/logo/SK3HD.png" group-title="Sportski",Sport Klub 3 RS HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/81.ts
+#EXTINF:-1 tvg-ID="SK HD" tvg-name="Sport Klub FHD RS/HR/SLO" tvg-logo="http://reddeviliptv.com/logo/SKHD.png" group-title="Sportski",Sport Klub FHD RS/HR/SLO
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5557.ts
+#EXTINF:-1 tvg-ID="SK1 CG FHD" tvg-name="Sport Klub 1 CG FHD" tvg-logo="http://reddeviliptv.com/logo/SK1HD.png" group-title="Sportski",Sport Klub 1 CG FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6680.ts
+#EXTINF:-1 tvg-ID="SK1 RS FHD" tvg-name="Sport Klub 1 RS FHD" tvg-logo="http://reddeviliptv.com/logo/SK1HD.png" group-title="Sportski",Sport Klub 1 RS FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/380.ts
+#EXTINF:-1 tvg-ID="SK2 FHD" tvg-name="Sport Klub 2 FHD RS/HR/SLO" tvg-logo="http://reddeviliptv.com/logo/SK2HD.png" group-title="Sportski",Sport Klub 2 FHD RS/HR/SLO
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/362.ts
+#EXTINF:-1 tvg-ID="SK3 FHD" tvg-name="Sport Klub 3 FHD RS/HR/SLO" tvg-logo="http://reddeviliptv.com/logo/SK3HD.png" group-title="Sportski",Sport Klub 3 FHD RS/HR/SLO
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/363.ts
+#EXTINF:-1 tvg-ID="SK1 HR FHD" tvg-name="Sport Klub 1 HR FHD" tvg-logo="http://reddeviliptv.com/logo/SK1HD.png" group-title="Sportski",Sport Klub 1 HR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5643.ts
+#EXTINF:-1 tvg-ID="SK1 HR SD" tvg-name="Sport Klub 1 HR" tvg-logo="http://reddeviliptv.com/logo/SK1HR.png" group-title="Sportski",Sport Klub 1 HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/506.ts
+#EXTINF:-1 tvg-ID="Sport Klub 4" tvg-name="Sport Klub 4 HR" tvg-logo="http://reddeviliptv.com/logo/SK4.png" group-title="Sportski",Sport Klub 4 HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1832.ts
+#EXTINF:-1 tvg-ID="Sport Klub 5" tvg-name="Sport Klub 5 HR" tvg-logo="http://reddeviliptv.com/logo/SK5.png" group-title="Sportski",Sport Klub 5 HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1833.ts
+#EXTINF:-1 tvg-ID="Sport Klub 6" tvg-name="Sport Klub 6 HR" tvg-logo="http://reddeviliptv.com/logo/SK6.png" group-title="Sportski",Sport Klub 6 HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 7 TEST" tvg-logo="http://reddeviliptv.com/logo/Sport%20Klub%207.png" group-title="Sportski",Sport Klub 7 TEST
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 8 TEST" tvg-logo="http://reddeviliptv.com/logo/Sport%20Klub%208.png" group-title="Sportski",Sport Klub 8 TEST
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 9 TEST" tvg-logo="http://reddeviliptv.com/logo/Sport%20Klub%209.png" group-title="Sportski",Sport Klub 9 TEST
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 10 TEST" tvg-logo="http://reddeviliptv.com/logo/Sport%20Klub%2010.png" group-title="Sportski",Sport Klub 10 TEST
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7614.ts
+#EXTINF:-1 tvg-ID="SK Golf" tvg-name="Sport Klub Golf" tvg-logo="http://reddeviliptv.com/logo/SKGolf.png" group-title="Sportski",Sport Klub Golf
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/368.ts
+#EXTINF:-1 tvg-ID="SK Esports" tvg-name="SK Esports" tvg-logo="http://reddeviliptv.com/logo/SK%20Esports.png" group-title="Sportski",SK Esports
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6260.ts
+#EXTINF:-1 tvg-ID="Sport TV 1 FHD POR" tvg-name="Sport TV 1 FHD POR" tvg-logo="http://reddeviliptv.com/logo/Sport%20TV%20POR.png" group-title="Sportski",Sport TV 1 FHD POR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6515.ts
+#EXTINF:-1 tvg-ID="Sport TV 2 FHD POR" tvg-name="Sport TV 2 FHD POR" tvg-logo="http://reddeviliptv.com/logo/Sport%20TV%20POR.png" group-title="Sportski",Sport TV 2 FHD POR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6516.ts
+#EXTINF:-1 tvg-ID="Sport TV 3 FHD POR" tvg-name="Sport TV 3 FHD POR" tvg-logo="http://reddeviliptv.com/logo/Sport%20TV%20POR.png" group-title="Sportski",Sport TV 3 FHD POR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6517.ts
+#EXTINF:-1 tvg-ID="SuperSport 1 FHD" tvg-name="SuperSport 1" tvg-logo="http://reddeviliptv.com/logo/SuperSport%20AL.png" group-title="Sportski",SuperSport 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7253.ts
+#EXTINF:-1 tvg-ID="SuperSport 2 FHD" tvg-name="SuperSport 2" tvg-logo="http://reddeviliptv.com/logo/SuperSport%20AL.png" group-title="Sportski",SuperSport 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7252.ts
+#EXTINF:-1 tvg-ID="SuperSport 3 FHD" tvg-name="SuperSport 3" tvg-logo="http://reddeviliptv.com/logo/SuperSport%20AL.png" group-title="Sportski",SuperSport 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7251.ts
+#EXTINF:-1 tvg-ID="SuperSport 4 FHD" tvg-name="SuperSport 4" tvg-logo="http://reddeviliptv.com/logo/SuperSport%20AL.png" group-title="Sportski",SuperSport 4
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 FHD EN" tvg-logo="http://reddeviliptv.com/logo/Eurosport%201%20HD.png" group-title="Sportski",Eurosport 1 FHD EN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 FHD EN" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202%20HD.png" group-title="Sportski",Eurosport 2 FHD EN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7466.ts
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-name="BT Sport 1 FHD" tvg-logo="http://reddeviliptv.com/logo/BT%20Sport%201%20FHD.png" group-title="Sportski",BT Sport 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4100.ts
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-name="BT Sport 2 FHD" tvg-logo="http://reddeviliptv.com/logo/BT%20Sport%202%20FHD.png" group-title="Sportski",BT Sport 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4101.ts
+#EXTINF:-1 tvg-ID="BT Sport 3 HD" tvg-name="BT Sport 3 FHD" tvg-logo="http://reddeviliptv.com/logo/BT%20Sport%203%20FHD.png" group-title="Sportski",BT Sport 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4102.ts
+#EXTINF:-1 tvg-ID="BTSpt//ESPNHD" tvg-name="BT Sport ESPN FHD" tvg-logo="http://reddeviliptv.com/logo/BT%20Sport%20ESPN%20FHD.png" group-title="Sportski",BT Sport ESPN FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4103.ts
+#EXTINF:-1 tvg-ID="Sky Sports Premier League FHD" tvg-name="Sky Sports Premier League FHD" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sports%20Premier%20League%20HD.png" group-title="Sportski",Sky Sports Premier League FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4098.ts
+#EXTINF:-1 tvg-ID="Sky Sports Football FHD" tvg-name="Sky Sports Football FHD" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sports%20Football%20HD.png" group-title="Sportski",Sky Sports Football FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4096.ts
+#EXTINF:-1 tvg-ID="Sky Sports F1 FHD" tvg-name="Sky Sports F1 FHD" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sports%20F1%20HD.png" group-title="Sportski",Sky Sports F1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4097.ts
+#EXTINF:-1 tvg-ID="Sky Sports Main Event FHD" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sports%20Arena%20FHD.png" group-title="Sportski",Sky Sports Main Event FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4129.ts
+#EXTINF:-1 tvg-ID="Max Sport 1 BG FHD" tvg-name="Max Sport 1 BG FHD" tvg-logo="http://reddeviliptv.com/logo/Max%20Sport%201%20BG%20FHD.png" group-title="Sportski",Max Sport 1 BG FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5598.ts
+#EXTINF:-1 tvg-ID="Max Sport 2 BG FHD" tvg-name="Max Sport 2 BG FHD" tvg-logo="http://reddeviliptv.com/logo/Max%20Sport%202%20BG%20FHD.png" group-title="Sportski",Max Sport 2 BG FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5597.ts
+#EXTINF:-1 tvg-ID="Max Sport 3 BG FHD" tvg-name="Max Sport 3 BG FHD" tvg-logo="http://reddeviliptv.com/logo/Max%20Sport%203%20BG%20FHD.png" group-title="Sportski",Max Sport 3 BG FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5604.ts
+#EXTINF:-1 tvg-ID="Max Sport 4 BG FHD" tvg-name="Max Sport 4 BG FHD" tvg-logo="http://reddeviliptv.com/logo/Max%20Sport%204%20BG%20FHD.png" group-title="Sportski",Max Sport 4 BG FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5878.ts
+#EXTINF:-1 tvg-ID="Diema Sport FHD BG" tvg-name="Diema Sport FHD BG" tvg-logo="http://reddeviliptv.com/logo/Diema%20Sport.png" group-title="Sportski",Diema Sport FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6367.ts
+#EXTINF:-1 tvg-ID="NOVA Sport BG" tvg-name="NOVA Sport FHD BG" tvg-logo="http://reddeviliptv.com/logo/NOVA%20Sport%20BG.png" group-title="Sportski",NOVA Sport FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5603.ts
+#EXTINF:-1 tvg-ID="Barca TV" tvg-name="Barca TV" tvg-logo="http://reddeviliptv.com/logo/Barca%20TV.png" group-title="Sportski",Barca TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6454.ts
+#EXTINF:-1 tvg-ID="PARTIZAN TV HD" tvg-name="PARTIZAN TV HD" tvg-logo="http://reddeviliptv.com/logo/PARTIZAN%20TV%20HD.png" group-title="Sportski",PARTIZAN TV HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4670.ts
+#EXTINF:-1 tvg-ID="Eurosport 1 DE" tvg-name="Eurosport 1 DE" tvg-logo="http://reddeviliptv.com/logo/Eurosport%201%20HD%20DE.png" group-title="Sportski",Eurosport 1 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1121.ts
+#EXTINF:-1 tvg-ID="Eurosport 2 DE" tvg-name="Eurosport 2 DE" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202%20DE.png" group-title="Sportski",Eurosport 2 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4973.ts
+#EXTINF:-1 tvg-ID="Eurosport 2 Xtra DE" tvg-name="Eurosport 2 Xtra DE" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202%20Extra%20HD%20DE.png" group-title="Sportski",Eurosport 2 Xtra DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4085.ts
+#EXTINF:-1 tvg-ID="Sky Sport 1 DE" tvg-name="Sky Sport 1 DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%201%20HD%20DE.png" group-title="Sportski",Sky Sport 1 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/968.ts
+#EXTINF:-1 tvg-ID="Sky Sport 2 DE" tvg-name="Sky Sport 2 DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%202%20HD%20DE.png" group-title="Sportski",Sky Sport 2 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/969.ts
+#EXTINF:-1 tvg-ID="Sky Sport 1 DE" tvg-name="Sky Sport 1 FHD DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%201%20HD%20DE.png" group-title="Sportski",Sky Sport 1 FHD DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6374.ts
+#EXTINF:-1 tvg-ID="Sky Sport 2 DE" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%202%20HD%20DE.png" group-title="Sportski",Sky Sport 2 FHD DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6375.ts
+#EXTINF:-1 tvg-ID="Sky Fußball Bundesliga 1 DE" tvg-name="Sky Fußball Bundesliga 1 DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%20HD%20DE.png" group-title="Sportski",Sky Fußball Bundesliga 1 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6889.ts
+#EXTINF:-1 tvg-ID="Sky Fußball Bundesliga 1 DE" tvg-name="Sky Fußball Bundesliga 1 FHD DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%20HD%20DE.png" group-title="Sportski",Sky Fußball Bundesliga 1 FHD DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/970.ts
+#EXTINF:-1 tvg-ID="Sky Fußball Bundesliga 2 *Only Live*" tvg-name="Sky Fußball Bundesliga 2 *Only Live*" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%202%20HD.png" group-title="Sportski",Sky Fußball Bundesliga 2 *Only Live*
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/3679.ts
+#EXTINF:-1 tvg-ID="Sky Fußball Bundesliga 3 *Only Live*" tvg-name="Sky Fußball Bundesliga 3 *Only Live*" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%203%20HD.png" group-title="Sportski",Sky Fußball Bundesliga 3 *Only Live*
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/3680.ts
+#EXTINF:-1 tvg-ID="Sky Fußball Bundesliga 4 *Only Live*" tvg-name="Sky Fußball Bundesliga 4 *Only Live*" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%204%20HD.png" group-title="Sportski",Sky Fußball Bundesliga 4 *Only Live*
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/3681.ts
+#EXTINF:-1 tvg-ID="Sky Bundesliga HD 5" tvg-name="Sky Fußball Bundesliga 5 *Only Live*" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%205%20HD.png" group-title="Sportski",Sky Fußball Bundesliga 5 *Only Live*
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4673.ts
+#EXTINF:-1 tvg-ID="Sky Bundesliga HD 6" tvg-name="Sky Fußball Bundesliga 6 *Only Live*" tvg-logo="http://reddeviliptv.com/logo/Sky%20Fu%C3%9Fball%20Bundesliga%206.png" group-title="Sportski",Sky Fußball Bundesliga 6 *Only Live*
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4674.ts
+#EXTINF:-1 tvg-ID="Sky Sport News DE" tvg-name="Sky Sport News DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%20News%20HD%20DE.png" group-title="Sportski",Sky Sport News DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1755.ts
+#EXTINF:-1 tvg-ID="Sky Sport Austria DE" tvg-name="Sky Sport Austria DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Sport%20Austria%20HD%20DE.png" group-title="Sportski",Sky Sport Austria DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1753.ts
+#EXTINF:-1 tvg-ID="DAZN 1 Bar DE" tvg-name="DAZN 1 Bar DE" tvg-logo="http://reddeviliptv.com/logo/Dazn.png" group-title="Sportski",DAZN 1 Bar DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6308.ts
+#EXTINF:-1 tvg-ID="DAZN 2 Bar DE" tvg-name="DAZN 2 Bar DE" tvg-logo="http://reddeviliptv.com/logo/Dazn.png" group-title="Sportski",DAZN 2 Bar DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6894.ts
+#EXTINF:-1 tvg-ID="FightBox" tvg-name="FightBox FHD" tvg-logo="http://reddeviliptv.com/logo/FightBox%20FHD.png" group-title="Sportski",FightBox FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/367.ts
+#EXTINF:-1 tvg-ID="Fight Channel" tvg-name="Fight Channel" tvg-logo="http://reddeviliptv.com/logo/Fight%20Channel.png" group-title="Sportski",Fight Channel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/16.ts
+#EXTINF:-1 tvg-ID="HNTV" tvg-name="HNTV" tvg-logo="http://reddeviliptv.com/logo/HNTV.png" group-title="Sportski",HNTV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/24.ts
+#EXTINF:-1 tvg-ID="Sportska TV" tvg-name="Sportska TV" tvg-logo="http://reddeviliptv.com/logo/Sportska%20TV.png" group-title="Sportski",Sportska TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/246.ts
+#EXTINF:-1 tvg-ID="Movistar F1 FHD" tvg-name="Movistar F1 FHD" tvg-logo="http://reddeviliptv.com/logo/Movistar%20F1%20FHD.png" group-title="Sportski",Movistar F1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4897.ts
+#EXTINF:-1 tvg-ID="Movistar Vamos FHD" tvg-name="Movistar Liga De Campeones FHD" tvg-logo="http://reddeviliptv.com/logo/Movistar%20Vamos%20FHD.png" group-title="Sportski",Movistar Liga De Campeones FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5578.ts
+#EXTINF:-1 tvg-ID="Movistar Toros FHD" tvg-name="Movistar Toros FHD" tvg-logo="http://reddeviliptv.com/logo/Movistar%20Toros%20FHD.png" group-title="Sportski",Movistar Toros FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6285.ts
+#EXTINF:-1 tvg-ID="NBA TV USA" tvg-name="NBA TV FHD" tvg-logo="http://reddeviliptv.com/logo/NBA%20TV.jpg" group-title="Sportski",NBA TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/268.ts
+#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="Real Madrid TV" tvg-logo="http://reddeviliptv.com/logo/Real%20Madrid%20TV.png" group-title="Sportski",Real Madrid TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4135.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC RS" tvg-logo="http://reddeviliptv.com/logo/AMC.png" group-title="Filmski/Serijski",AMC RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1701.ts
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://reddeviliptv.com/logo/AXN.png" group-title="Filmski/Serijski",AXN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/226.ts
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="AXN Spin" tvg-logo="http://reddeviliptv.com/logo/AXN%20Spin.png" group-title="Filmski/Serijski",AXN Spin
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7579.ts
+#EXTINF:-1 tvg-ID="Cinemania" tvg-name="Cinemania FHD" tvg-logo="http://reddeviliptv.com/logo/Cinemania.png" group-title="Filmski/Serijski",Cinemania FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1860.ts
+#EXTINF:-1 tvg-ID="Cinemax 1 HD" tvg-name="Cinemax 1" tvg-logo="http://reddeviliptv.com/logo/Cinemax%201%20HD.png" group-title="Filmski/Serijski",Cinemax 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/193.ts
+#EXTINF:-1 tvg-ID="Cinemax 2 HD" tvg-name="Cinemax 2" tvg-logo="http://reddeviliptv.com/logo/Cinemax%202%20HD.png" group-title="Filmski/Serijski",Cinemax 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/199.ts
+#EXTINF:-1 tvg-ID="Cinemax 1 HD" tvg-name="Cinemax 1 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/Cinemax%201%20HD.png" group-title="Filmski/Serijski",Cinemax 1 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6324.ts
+#EXTINF:-1 tvg-ID="Cinemax 2 HD" tvg-name="Cinemax 2 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/Cinemax%202%20HD.png" group-title="Filmski/Serijski",Cinemax 2 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6325.ts
+#EXTINF:-1 tvg-ID="CineStar TV" tvg-name="CineStar TV1" tvg-logo="http://reddeviliptv.com/logo/CineStar%20TV.png" group-title="Filmski/Serijski",CineStar TV1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/186.ts
+#EXTINF:-1 tvg-ID="CineStar TV Action & Thriller" tvg-name="CineStar Action & Thriller" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Action%20&%20Thriller.png" group-title="Filmski/Serijski",CineStar Action & Thriller
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/69.ts
+#EXTINF:-1 tvg-ID="Cinestar Fantasy" tvg-name="CineStar Fantasy" tvg-logo="http://reddeviliptv.com/logo/Cinestar%20Fantasy.png" group-title="Filmski/Serijski",CineStar Fantasy
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/149.ts
+#EXTINF:-1 tvg-ID="CineStar TV Comedy" tvg-name="CineStar Comedy RS/HR/MK" tvg-logo="" group-title="Filmski/Serijski",CineStar Comedy RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7206.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 1 HD" tvg-name="CineStar Premiere 1 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%201%20HD.png" group-title="Filmski/Serijski",CineStar Premiere 1 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7357.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 2 HD" tvg-name="CineStar Premiere 2 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%202%20HD.png" group-title="Filmski/Serijski",CineStar Premiere 2 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7356.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%201%20HD.png" group-title="Filmski/Serijski",CineStar Premiere 1 HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1341.ts
+#EXTINF:-1 tvg-ID="CineStar TV Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%202%20HD.png" group-title="Filmski/Serijski",CineStar Premiere 2 HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1340.ts
+#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="http://reddeviliptv.com/logo/HBO%20HD.png" group-title="Filmski/Serijski",HBO HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/113.ts
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://reddeviliptv.com/logo/HBO%202%20HD.png" group-title="Filmski/Serijski",HBO 2 HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/114.ts
+#EXTINF:-1 tvg-ID="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="http://reddeviliptv.com/logo/HBO%203%20HD.png" group-title="Filmski/Serijski",HBO 3 HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/115.ts
+#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/HBO%20HD.png" group-title="Filmski/Serijski",HBO FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6267.ts
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/HBO%202%20HD.png" group-title="Filmski/Serijski",HBO 2 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6268.ts
+#EXTINF:-1 tvg-ID="HBO 3 HD" tvg-name="HBO 3 FHD RS/HR/SLO/MK" tvg-logo="http://reddeviliptv.com/logo/HBO%203%20HD.png" group-title="Filmski/Serijski",HBO 3 FHD RS/HR/SLO/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6334.ts
+#EXTINF:-1 tvg-ID="HBO FHD MK" tvg-name="HBO FHD MK" tvg-logo="http://reddeviliptv.com/logo/HBO%20HD.png" group-title="Filmski/Serijski",HBO FHD MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4768.ts
+#EXTINF:-1 tvg-ID="HBO 2 FHD MK" tvg-name="HBO 2 FHD MK" tvg-logo="http://reddeviliptv.com/logo/HBO%202%20HD.png" group-title="Filmski/Serijski",HBO 2 FHD MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4769.ts
+#EXTINF:-1 tvg-ID="HBO 3 MK" tvg-name="HBO 3 MK" tvg-logo="http://reddeviliptv.com/logo/HBO%203%20HD.png" group-title="Filmski/Serijski",HBO 3 MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4770.ts
+#EXTINF:-1 tvg-ID="Fox" tvg-name="FOX" tvg-logo="http://reddeviliptv.com/logo/FOX.png" group-title="Filmski/Serijski",FOX
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/189.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="FOX Life" tvg-logo="http://reddeviliptv.com/logo/FOX%20Life.png" group-title="Filmski/Serijski",FOX Life
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/191.ts
+#EXTINF:-1 tvg-ID="Fox Crime" tvg-name="FOX Crime" tvg-logo="http://reddeviliptv.com/logo/FOX%20Crime.png" group-title="Filmski/Serijski",FOX Crime
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/111.ts
+#EXTINF:-1 tvg-ID="Fox Movies" tvg-name="FOX Movies" tvg-logo="http://reddeviliptv.com/logo/FOX%20Movies.png" group-title="Filmski/Serijski",FOX Movies
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/190.ts
+#EXTINF:-1 tvg-ID="Fox Movies" tvg-name="FOX Movies FHD RS/HR/SLO/AL" tvg-logo="http://reddeviliptv.com/logo/FOX%20Movies.png" group-title="Filmski/Serijski",FOX Movies FHD RS/HR/SLO/AL
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6338.ts
+#EXTINF:-1 tvg-ID="Epic Drama FHD RS/HR/MK" tvg-name="Epic Drama FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Epic Drama FHD.png" group-title="Filmski/Serijski",Epic Drama FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6910.ts
+#EXTINF:-1 tvg-ID="Superstar TV" tvg-name="Superstar TV" tvg-logo="http://reddeviliptv.com/logo/Supestar.png" group-title="Filmski/Serijski",Superstar TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6898.ts
+#EXTINF:-1 tvg-ID="FilmBox Extra FHD" tvg-name="FilmBox Extra FHD MK/RS/HR" tvg-logo="http://reddeviliptv.com/logo/FilmBox%20Extra%20FHD.png" group-title="Filmski/Serijski",FilmBox Extra FHD MK/RS/HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/112.ts
+#EXTINF:-1 tvg-ID="M1 Gold" tvg-name="M1 Gold" tvg-logo="http://reddeviliptv.com/logo/M1%20Gold.png" group-title="Filmski/Serijski",M1 Gold
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7292.ts
+#EXTINF:-1 tvg-ID="M1 Film" tvg-name="M1 Film" tvg-logo="http://reddeviliptv.com/logo/M1%20Film.png" group-title="Filmski/Serijski",M1 Film
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7291.ts
+#EXTINF:-1 tvg-ID="M1 Film MK" tvg-name="M1 Film MK" tvg-logo="http://reddeviliptv.com/logo/M1%20Film.png" group-title="Filmski/Serijski",M1 Film MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5029.ts
+#EXTINF:-1 tvg-ID="M1 Gold MK" tvg-name="M1 Gold MK" tvg-logo="http://reddeviliptv.com/logo/M1%20Gold.png" group-title="Filmski/Serijski",M1 Gold MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5030.ts
+#EXTINF:-1 tvg-ID="Max MK" tvg-name="Tring Action MK" tvg-logo="http://reddeviliptv.com/logo/Tring%20Action.png" group-title="Filmski/Serijski",Tring Action MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5027.ts
+#EXTINF:-1 tvg-ID="Fantasy MK" tvg-name="Tring Fantasy MK" tvg-logo="http://reddeviliptv.com/logo/Tring%20Fantasy.png" group-title="Filmski/Serijski",Tring Fantasy MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5028.ts
+#EXTINF:-1 tvg-ID="SciFi FHD" tvg-name="SciFi FHD RS/HR" tvg-logo="http://reddeviliptv.com/logo/SciFi.png" group-title="Filmski/Serijski",SciFi FHD RS/HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5345.ts
+#EXTINF:-1 tvg-ID="DIVA" tvg-name="DIVA TV RS" tvg-logo="http://reddeviliptv.com/logo/DIVA%20TV.png" group-title="Filmski/Serijski",DIVA TV RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Klub" tvg-logo="" group-title="Srpski",Film Klub
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7578.ts
+#EXTINF:-1 tvg-ID="Klasik TV" tvg-name="Klasik TV" tvg-logo="http://reddeviliptv.com/logo/Klasik%20TV.png" group-title="Filmski/Serijski",Klasik TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/30.ts
+#EXTINF:-1 tvg-ID="TV 1000" tvg-name="TV 1000" tvg-logo="http://reddeviliptv.com/logo/TV%201000.png" group-title="Filmski/Serijski",TV 1000
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/192.ts
+#EXTINF:-1 tvg-ID="Pink Action" tvg-name="Pink Action" tvg-logo="http://reddeviliptv.com/logo/Pink%20Action.png" group-title="Filmski/Serijski",Pink Action
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/286.ts
+#EXTINF:-1 tvg-ID="Pink Comedy" tvg-name="Pink Comedy" tvg-logo="http://reddeviliptv.com/logo/Pink%20Comedy.png" group-title="Filmski/Serijski",Pink Comedy
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1720.ts
+#EXTINF:-1 tvg-ID="Pink Classic" tvg-name="Pink Classic" tvg-logo="http://reddeviliptv.com/logo/Pink%20Classic.png" group-title="Filmski/Serijski",Pink Classic
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/290.ts
+#EXTINF:-1 tvg-ID="Pink Crime & Mistery" tvg-name="Pink Crime & Mistery" tvg-logo="http://reddeviliptv.com/logo/Pink%20Crime%20&%20Mistery.png" group-title="Filmski/Serijski",Pink Crime & Mistery
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1727.ts
+#EXTINF:-1 tvg-ID="Pink SciFi Fantasy" tvg-name="Pink SciFi & Fantasy" tvg-logo="http://reddeviliptv.com/logo/Pink%20Sci%20Fi%20&%20Fantasy.png" group-title="Filmski/Serijski",Pink SciFi & Fantasy
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1728.ts
+#EXTINF:-1 tvg-ID="Pink Film" tvg-name="Pink Film" tvg-logo="http://reddeviliptv.com/logo/Pink%20Film.png" group-title="Filmski/Serijski",Pink Film
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/276.ts
+#EXTINF:-1 tvg-ID="Pink Family" tvg-name="Pink Family" tvg-logo="http://reddeviliptv.com/logo/Pink%20Family.png" group-title="Filmski/Serijski",Pink Family
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/296.ts
+#EXTINF:-1 tvg-ID="Pink Movies" tvg-name="Pink Movies" tvg-logo="http://reddeviliptv.com/logo/Pink%20Movies.png" group-title="Filmski/Serijski",Pink Movies
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/277.ts
+#EXTINF:-1 tvg-ID="Pink Horror" tvg-name="Pink Horror" tvg-logo="http://reddeviliptv.com/logo/Pink%20Horror.png" group-title="Filmski/Serijski",Pink Horror
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1729.ts
+#EXTINF:-1 tvg-ID="Pink Premium" tvg-name="Pink Premium" tvg-logo="http://reddeviliptv.com/logo/Pink%20Premium.png" group-title="Filmski/Serijski",Pink Premium
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1719.ts
+#EXTINF:-1 tvg-ID="Pink Romance" tvg-name="Pink Romance" tvg-logo="http://reddeviliptv.com/logo/Pink%20Romance.png" group-title="Filmski/Serijski",Pink Romance
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/293.ts
+#EXTINF:-1 tvg-ID="Pink Thriller" tvg-name="Pink Thriller" tvg-logo="http://reddeviliptv.com/logo/Pink%20Thriller.png" group-title="Filmski/Serijski",Pink Thriller
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1726.ts
+#EXTINF:-1 tvg-ID="Pink Serije" tvg-name="Pink Serije" tvg-logo="http://reddeviliptv.com/logo/Pink%20Serije.png" group-title="Filmski/Serijski",Pink Serije
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/273.ts
+#EXTINF:-1 tvg-ID="Pink Western" tvg-name="Pink Western" tvg-logo="http://reddeviliptv.com/logo/Pink%20Western.png" group-title="Filmski/Serijski",Pink Western
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/285.ts
+#EXTINF:-1 tvg-ID="Pink World Cinema" tvg-name="Pink World Cinema" tvg-logo="http://reddeviliptv.com/logo/Pink%20World%20Cinema.png" group-title="Filmski/Serijski",Pink World Cinema
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet FHD RS" tvg-logo="" group-title="Dokumentarni",Animal Planet FHD RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7573.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://reddeviliptv.com/logo/Animal%20Planet.png" group-title="Dokumentarni",Animal Planet
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/223.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS Reality HR" tvg-logo="http://reddeviliptv.com/logo/CBS%20Reality.png" group-title="Dokumentarni",CBS Reality HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/65.ts
+#EXTINF:-1 tvg-ID="Crime & Investigation" tvg-name="Crime & Investigation" tvg-logo="http://reddeviliptv.com/logo/Crime%20&%20Investigation.png" group-title="Dokumentarni",Crime & Investigation
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/56.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Channel.png" group-title="Dokumentarni",Discovery Channel RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/75.ts
+#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="Discovery Science RS" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Science.png" group-title="Dokumentarni",Discovery Science RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/17.ts
+#EXTINF:-1 tvg-ID="Discovery DTX" tvg-name="Discovery Turbo Xtra FHD RS" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Turbo%20Xtra%20FHD.png" group-title="Dokumentarni",Discovery Turbo Xtra FHD RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4697.ts
+#EXTINF:-1 tvg-ID="Discovery ID" tvg-name="Discovery ID" tvg-logo="http://reddeviliptv.com/logo/ID%20Xtra.png" group-title="Dokumentarni",Discovery ID
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/68.ts
+#EXTINF:-1 tvg-ID="Discovery ID FHD" tvg-name="Discovery ID FHD RS" tvg-logo="http://reddeviliptv.com/logo/ID%20Xtra.png" group-title="Dokumentarni",Discovery ID FHD RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4695.ts
+#EXTINF:-1 tvg-ID="DocuBox" tvg-name="DocuBox FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/DocuBox%20FHD.png" group-title="Dokumentarni",DocuBox FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/253.ts
+#EXTINF:-1 tvg-ID="Da Vinci Learning" tvg-name="Da Vinci Learning RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Da%20Vinci%20TV.png" group-title="Dokumentarni",Da Vinci Learning RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/78.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="http://reddeviliptv.com/logo/National%20Geographic%20HD.png" group-title="Dokumentarni",National Geographic
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4689.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://reddeviliptv.com/logo/Nat%20Geo%20Wild.png" group-title="Dokumentarni",Nat Geo Wild
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1811.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History RS/HR/MK/GR" tvg-logo="http://reddeviliptv.com/logo/History%20Channel%20HD.png" group-title="Dokumentarni",History RS/HR/MK/GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5853.ts
+#EXTINF:-1 tvg-ID="History Channel" tvg-name="History Channel" tvg-logo="http://reddeviliptv.com/logo/History%20Channel%20HD.png" group-title="Dokumentarni",History Channel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4784.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2" tvg-logo="http://reddeviliptv.com/logo/H2.png" group-title="Dokumentarni",H2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1810.ts
+#EXTINF:-1 tvg-ID="H2 FHD" tvg-name="H2 FHD RS/HR" tvg-logo="http://reddeviliptv.com/logo/H2%20FHD.png" group-title="Dokumentarni",H2 FHD RS/HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4968.ts
+#EXTINF:-1 tvg-ID="BBC Earth HD" tvg-name="BBC Earth FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/BBC%20Earth%20FHD.png" group-title="Dokumentarni",BBC Earth FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6000.ts
+#EXTINF:-1 tvg-ID="Outdoor Channel FHD" tvg-name="Outdoor Channel FHD RS" tvg-logo="http://reddeviliptv.com/logo/Outdoor%20Channel.png" group-title="Dokumentarni",Outdoor Channel FHD RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6319.ts
+#EXTINF:-1 tvg-ID="Viasat Nature" tvg-name="Viasat Nature FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Viasat%20Nature.png" group-title="Dokumentarni",Viasat Nature FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/70.ts
+#EXTINF:-1 tvg-ID="Viasat History" tvg-name="Viasat History FHD RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Viasat%20History.png" group-title="Dokumentarni",Viasat History FHD RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/71.ts
+#EXTINF:-1 tvg-ID="Viasat Explore" tvg-name="Viasat Explore FHD HR/RS/MK" tvg-logo="http://reddeviliptv.com/logo/Viasat%20Explore.png" group-title="Dokumentarni",Viasat Explore FHD HR/RS/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/58.ts
+#EXTINF:-1 tvg-ID="Lov i Ribolov" tvg-name="Lov i Ribolov" tvg-logo="http://reddeviliptv.com/logo/Lov%20i%20Ribolov.png" group-title="Dokumentarni",Lov i Ribolov
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/29.ts
+#EXTINF:-1 tvg-ID="Pink Pedia" tvg-name="Pink Pedia" tvg-logo="http://reddeviliptv.com/logo/Pink%20Pedia.png" group-title="Dokumentarni",Pink Pedia
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1731.ts
+#EXTINF:-1 tvg-ID="24Kitchen" tvg-name="24 Kitchen" tvg-logo="http://reddeviliptv.com/logo/24%20Kitchen.png" group-title="Dokumentarni",24 Kitchen
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/225.ts
+#EXTINF:-1 tvg-ID="Kitchen TV FHD" tvg-name="Kitchen TV FHD" tvg-logo="http://reddeviliptv.com/logo/Kitchen%20TV%20FHD.png" group-title="Dokumentarni",Kitchen TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="Zabavni",Food Network
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7577.ts
+#EXTINF:-1 tvg-ID="Fine Living" tvg-name="Fine Living" tvg-logo="http://reddeviliptv.com/logo/Fine%20Living.png" group-title="Dokumentarni",Fine Living
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4923.ts
+#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://reddeviliptv.com/logo/Travel%20Channel.png" group-title="Zabavni",Travel Channel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/72.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/TLC.png" group-title="Zabavni",TLC RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/224.ts
+#EXTINF:-1 tvg-ID="E! FHD" tvg-name="E! FHD RS/MK" tvg-logo="http://reddeviliptv.com/logo/E!%20FHD.png" group-title="Zabavni",E! FHD RS/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/22.ts
+#EXTINF:-1 tvg-ID="Luxe.TV" tvg-name="Luxe TV FHD" tvg-logo="http://reddeviliptv.com/logo/Luxe%20TV%20FHD.png" group-title="Zabavni",Luxe TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4750.ts
+#EXTINF:-1 tvg-ID="Fashion TV" tvg-name="Fashion TV FHD" tvg-logo="http://reddeviliptv.com/logo/Fashion%20TV.png" group-title="Zabavni",Fashion TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5970.ts
+#EXTINF:-1 tvg-ID="Pink Kuvar" tvg-name="Pink Kuvar" tvg-logo="http://reddeviliptv.com/logo/Pink%20Kuvar.png" group-title="Zabavni",Pink Kuvar
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/287.ts
+#EXTINF:-1 tvg-ID="Pink Zadruga Live 1" tvg-name="Pink Zadruga Live FHD" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Zabavni",Pink Zadruga Live FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6007.ts
+#EXTINF:-1 tvg-ID="Pink Zadruga Live 1" tvg-name="Pink Zadruga Live 1" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Zabavni",Pink Zadruga Live 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6406.ts
+#EXTINF:-1 tvg-ID="Pink Zadruga Live 2" tvg-name="Pink Zadruga Live 2" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Zabavni",Pink Zadruga Live 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6558.ts
+#EXTINF:-1 tvg-ID="Pink Zadruga Live 3" tvg-name="Pink Zadruga Live 3" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Zabavni",Pink Zadruga Live 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6405.ts
+#EXTINF:-1 tvg-ID="Pink Zadruga Live 4" tvg-name="Pink Zadruga Live 4" tvg-logo="http://reddeviliptv.com/logo/Pink.png" group-title="Zabavni",Pink Zadruga Live 4
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6559.ts
+#EXTINF:-1 tvg-ID="Pink Reality" tvg-name="Pink Reality" tvg-logo="http://reddeviliptv.com/logo/Pink%20Reality.png" group-title="Zabavni",Pink Reality
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/271.ts
+#EXTINF:-1 tvg-ID="Pink Zabava" tvg-name="Pink Zabava" tvg-logo="http://reddeviliptv.com/logo/Pink%20Zabava.png" group-title="Zabavni",Pink Zabava
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/275.ts
+#EXTINF:-1 tvg-ID="Pink Soap" tvg-name="Pink Soap" tvg-logo="http://reddeviliptv.com/logo/Pink%20Soap.png" group-title="Zabavni",Pink Soap
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/279.ts
+#EXTINF:-1 tvg-ID="Pink Extra" tvg-name="Pink Extra" tvg-logo="http://reddeviliptv.com/logo/Pink%20Extra.png" group-title="Zabavni",Pink Extra
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/282.ts
+#EXTINF:-1 tvg-ID="Pink World" tvg-name="Pink World" tvg-logo="http://reddeviliptv.com/logo/Pink%20World.png" group-title="Zabavni",Pink World
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/288.ts
+#EXTINF:-1 tvg-ID="Pink Show" tvg-name="Pink Show" tvg-logo="http://reddeviliptv.com/logo/Pink%20Show.png" group-title="Zabavni",Pink Show
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/297.ts
+#EXTINF:-1 tvg-ID="Pink Plus" tvg-name="Pink Plus" tvg-logo="http://reddeviliptv.com/logo/Pink%20Plus.png" group-title="Zabavni",Pink Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/289.ts
+#EXTINF:-1 tvg-ID="LOL" tvg-name="Pink LOL" tvg-logo="http://reddeviliptv.com/logo/Pink%20LOL.png" group-title="Zabavni",Pink LOL
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/122.ts
+#EXTINF:-1 tvg-ID="HA HA" tvg-name="Pink HAHA" tvg-logo="http://reddeviliptv.com/logo/Pink%20HAHA.png" group-title="Zabavni",Pink HAHA
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/120.ts
+#EXTINF:-1 tvg-ID="Pink Fashion" tvg-name="Pink Fashion" tvg-logo="http://reddeviliptv.com/logo/Pink%20Fashion.png" group-title="Zabavni",Pink Fashion
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/305.ts
+#EXTINF:-1 tvg-ID="Pink Style" tvg-name="Pink Style" tvg-logo="http://reddeviliptv.com/logo/Pink%20Style.png" group-title="Srpski",Pink Style
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6001.ts
+#EXTINF:-1 tvg-ID="dummy004" tvg-name="Tom And Jerry New 24/7" tvg-logo="http://reddeviliptv.com/logo/Classic%20Tom%20And%20Jerry.jpg" group-title="Decji",Tom And Jerry New 24/7
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6056.ts
+#EXTINF:-1 tvg-ID="Classic Tom And Jerry 24/7" tvg-name="Classic Tom And Jerry 24/7" tvg-logo="http://reddeviliptv.com/logo/Classic%20Tom%20And%20Jerry.jpg" group-title="Decji",Classic Tom And Jerry 24/7
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4082.ts
+#EXTINF:-1 tvg-ID="Classic Looney Tunes 24/7" tvg-name="Classic Looney Tunes 24/7" tvg-logo="http://reddeviliptv.com/logo/Classic%20Looney%20Tunes.png" group-title="Decji",Classic Looney Tunes 24/7
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4384.ts
+#EXTINF:-1 tvg-ID="Classic Pink Panter 24/7" tvg-name="Classic Pink Panter 24/7" tvg-logo="http://reddeviliptv.com/logo/Classic%20Pink%20Panter.png" group-title="Decji",Classic Pink Panter 24/7
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4385.ts
+#EXTINF:-1 tvg-ID="Mr Bean Cartoon 24/7" tvg-name="Mr Bean Cartoon 24/7" tvg-logo="http://reddeviliptv.com/logo/Mr%20Bean.png" group-title="Decji",Mr Bean Cartoon 24/7
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4387.ts
+#EXTINF:-1 tvg-ID="Masa i Medo" tvg-name="Masa i Medo" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%B0%D1%88%D0%B0%20%D0%B8%20%D0%9C%D0%B5%D0%B4%D0%BE.png" group-title="Decji",Masa i Medo
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4753.ts
+#EXTINF:-1 tvg-ID="Masa i Medo 2" tvg-name="Masa i Medo 2" tvg-logo="http://reddeviliptv.com/logo/%D0%9C%D0%B0%D1%88%D0%B0%20%D0%B8%20%D0%9C%D0%B5%D0%B4%D0%BE.png" group-title="Decji",Masa i Medo 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5123.ts
+#EXTINF:-1 tvg-ID="BabyTV" tvg-name="Baby TV" tvg-logo="http://reddeviliptv.com/logo/Baby%20TV.png" group-title="Decji",Baby TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/97.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang FHD" tvg-logo="http://reddeviliptv.com/logo/Boomerang.png" group-title="Decji",Boomerang FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/92.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://reddeviliptv.com/logo/Cartoon%20Network.png" group-title="Decji",Cartoon Network
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/89.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon RS/EN" tvg-logo="http://reddeviliptv.com/logo/Nickelodeon.png" group-title="Decji",Nickelodeon RS/EN
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/230.ts
+#EXTINF:-1 tvg-ID="Nickelodeon Junior" tvg-name="Nick Jr RS" tvg-logo="http://reddeviliptv.com/logo/Nickelodeon%20Junior.png" group-title="Decji",Nick Jr RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/21.ts
+#EXTINF:-1 tvg-ID="Minimax" tvg-name="Minimax" tvg-logo="http://reddeviliptv.com/logo/Minimax%20Cinemania%20Plus.png" group-title="Decji",Minimax
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/227.ts
+#EXTINF:-1 tvg-ID="Pikaboo" tvg-name="Pikaboo RS/HR/MK" tvg-logo="http://reddeviliptv.com/logo/Pikaboo.png" group-title="Decji",Pikaboo RS/HR/MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4986.ts
+#EXTINF:-1 tvg-ID="Vavoom" tvg-name="Vavoom MK" tvg-logo="http://reddeviliptv.com/logo/Vavoom.png" group-title="Decji",Vavoom MK
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5042.ts
+#EXTINF:-1 tvg-ID="Vavoom" tvg-name="Vavoom HR" tvg-logo="http://reddeviliptv.com/logo/Vavoom.png" group-title="Decji",Vavoom HR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7286.ts
+#EXTINF:-1 tvg-ID="Duck TV" tvg-name="Duck TV" tvg-logo="http://reddeviliptv.com/logo/Duck%20TV.png" group-title="Decji",Duck TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7293.ts
+#EXTINF:-1 tvg-ID="Pink Kids" tvg-name="Pink Kids" tvg-logo="http://reddeviliptv.com/logo/Pink%20Kids.png" group-title="Decji",Pink Kids
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/258.ts
+#EXTINF:-1 tvg-ID="Pink Super Kids" tvg-name="Pink Super Kids" tvg-logo="http://reddeviliptv.com/logo/Pink%20Super%20Kids.png" group-title="Decji",Pink Super Kids
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/231.ts
+#EXTINF:-1 tvg-ID="Hayatovci" tvg-name="Hayatovci" tvg-logo="http://reddeviliptv.com/logo/Hayatovci.png" group-title="Decji",Hayatovci
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/165.ts
+#EXTINF:-1 tvg-ID="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="http://reddeviliptv.com/logo/RTL%20Kockica.png" group-title="Decji",RTL Kockica
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/184.ts
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JimJam" tvg-logo="http://reddeviliptv.com/logo/JimJam.png" group-title="Decji",JimJam
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1700.ts
+#EXTINF:-1 tvg-ID="Bravo Music" tvg-name="Bravo Music" tvg-logo="http://reddeviliptv.com/logo/Bravo%20Music.png" group-title="Muzicki",Bravo Music
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/306.ts
+#EXTINF:-1 tvg-ID="BN Music" tvg-name="BN Music FHD" tvg-logo="http://reddeviliptv.com/logo/BN%20Music.png" group-title="Muzicki",BN Music FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/158.ts
+#EXTINF:-1 tvg-ID="Balkanika FHD" tvg-name="Balkanika FHD" tvg-logo="http://reddeviliptv.com/logo/Balkanika.png" group-title="Muzicki",Balkanika FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Balkanika" tvg-logo="" group-title="Muzicki",Balkanika
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7453.ts
+#EXTINF:-1 tvg-ID="CMC" tvg-name="CMC TV" tvg-logo="http://reddeviliptv.com/logo/CMC%20TV.png" group-title="Muzicki",CMC TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cro TV HD" tvg-logo="" group-title="Hrvatski",Cro TV HD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7775.ts
+#EXTINF:-1 tvg-ID="Jugoton TV" tvg-name="Jugoton TV" tvg-logo="http://reddeviliptv.com/logo/Jugoton.png" group-title="Muzicki",Jugoton TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6133.ts
+#EXTINF:-1 tvg-ID="DM Sat" tvg-name="DM Sat" tvg-logo="http://reddeviliptv.com/logo/DM%20Sat.png" group-title="Muzicki",DM Sat
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/101.ts
+#EXTINF:-1 tvg-ID="TV K::CN Music 2" tvg-name="KCN 2" tvg-logo="http://reddeviliptv.com/logo/KCN%202.png" group-title="Muzicki",KCN 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/147.ts
+#EXTINF:-1 tvg-ID="TV K::CN Svet Plus 3" tvg-name="KCN 3" tvg-logo="http://reddeviliptv.com/logo/KCN%203.png" group-title="Muzicki",KCN 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/146.ts
+#EXTINF:-1 tvg-ID="IDJ TV FHD" tvg-name="IDJ TV FHD" tvg-logo="http://reddeviliptv.com/logo/IDJ.png" group-title="Muzicki",IDJ TV FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/18.ts
+#EXTINF:-1 tvg-ID="Grand TV" tvg-name="Grand Narodna TV" tvg-logo="http://reddeviliptv.com/logo/Grand%20Narodna%20TV.png" group-title="Muzicki",Grand Narodna TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/159.ts
+#EXTINF:-1 tvg-ID="Grand TV 2" tvg-name="Grand Narodna TV 2" tvg-logo="http://reddeviliptv.com/logo/Grand%20Narodna%20TV%202.png" group-title="Muzicki",Grand Narodna TV 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/61.ts
+#EXTINF:-1 tvg-ID="Pink Music" tvg-name="Pink Music 1" tvg-logo="http://reddeviliptv.com/logo/Pink%20Music%201.png" group-title="Muzicki",Pink Music 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/274.ts
+#EXTINF:-1 tvg-ID="Pink Music 2" tvg-name="Pink Music 2" tvg-logo="http://reddeviliptv.com/logo/Pink%20Music%202.png" group-title="Muzicki",Pink Music 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/284.ts
+#EXTINF:-1 tvg-ID="Hayat Music" tvg-name="Hayat Music" tvg-logo="http://reddeviliptv.com/logo/Hayat%20Music.png" group-title="Muzicki",Hayat Music
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/164.ts
+#EXTINF:-1 tvg-ID="Hayat Folk" tvg-name="Hayat Folk" tvg-logo="http://reddeviliptv.com/logo/Hayat%20Folk.png" group-title="Muzicki",Hayat Folk
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/162.ts
+#EXTINF:-1 tvg-ID="Pink Folk" tvg-name="Pink Folk" tvg-logo="http://reddeviliptv.com/logo/Pink%20Folk.png" group-title="Muzicki",Pink Folk
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1723.ts
+#EXTINF:-1 tvg-ID="Pink Folk 2" tvg-name="Pink Folk 2" tvg-logo="http://reddeviliptv.com/logo/Pink%20Folk%202.png" group-title="Muzicki",Pink Folk 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1730.ts
+#EXTINF:-1 tvg-ID="Pink Hits 1" tvg-name="Pink Hits 1" tvg-logo="http://reddeviliptv.com/logo/Pink%20Hits%201.png" group-title="Muzicki",Pink Hits 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/300.ts
+#EXTINF:-1 tvg-ID="Pink Hits 2" tvg-name="Pink Hits 2" tvg-logo="http://reddeviliptv.com/logo/Pink%20Hits%202.png" group-title="Muzicki",Pink Hits 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/304.ts
+#EXTINF:-1 tvg-ID="Pink&Roll" tvg-name="Pink&Roll" tvg-logo="http://reddeviliptv.com/logo/Pink&Roll.png" group-title="Muzicki",Pink&Roll
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/298.ts
+#EXTINF:-1 tvg-ID="City Play" tvg-name="City Play" tvg-logo="http://reddeviliptv.com/logo/City%20Play.png" group-title="Muzicki",City Play
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/303.ts
+#EXTINF:-1 tvg-ID="Pink Koncert" tvg-name="Pink Koncert" tvg-logo="http://reddeviliptv.com/logo/Pink%20Koncert.png" group-title="Muzicki",Pink Koncert
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/302.ts
+#EXTINF:-1 tvg-ID="MTV Europe" tvg-name="MTV Adria RS" tvg-logo="http://reddeviliptv.com/logo/MTV%20Adria.png" group-title="Muzicki",MTV Adria RS
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/26.ts
+#EXTINF:-1 tvg-ID="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://reddeviliptv.com/logo/MTV%20Hits.png" group-title="Muzicki",MTV Hits
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4591.ts
+#EXTINF:-1 tvg-ID="MTV Dance" tvg-name="Club MTV" tvg-logo="http://reddeviliptv.com/logo/MTV%20Dance.png" group-title="Muzicki",Club MTV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1027.ts
+#EXTINF:-1 tvg-ID="MTV Rocks" tvg-name="MTV 90s" tvg-logo="http://reddeviliptv.com/logo/MTV%20Rocks.png" group-title="Muzicki",MTV 90s
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/943.ts
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://reddeviliptv.com/logo/VH1.png" group-title="Muzicki",VH1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/91.ts
+#EXTINF:-1 tvg-ID="VH1 Classic" tvg-name="MTV 80s" tvg-logo="" group-title="Muzicki",MTV 80s
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/62.ts
+#EXTINF:-1 tvg-ID="C-Music" tvg-name="Stingray CMusic" tvg-logo="http://reddeviliptv.com/logo/C%20Music%20TV.png" group-title="Muzicki",Stingray CMusic
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4692.ts
+#EXTINF:-1 tvg-ID="MTV Live FHD" tvg-name="MTV Live FHD" tvg-logo="http://reddeviliptv.com/logo/MTV%20Live%20FHD.png" group-title="Muzicki",MTV Live FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6187.ts
+#EXTINF:-1 tvg-ID="Mezzo Live FHD" tvg-name="Mezzo Live FHD" tvg-logo="http://reddeviliptv.com/logo/Mezzo%20Live%20FHD.png" group-title="Muzicki",Mezzo Live FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6188.ts
+#EXTINF:-1 tvg-ID="DELUXE Music HD" tvg-name="Deluxe Music FHD" tvg-logo="http://reddeviliptv.com/logo/Deluxe%20Music%20FHD.png" group-title="Muzicki",Deluxe Music FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4751.ts
+#EXTINF:-1 tvg-ID="Stingray iConcerts HD" tvg-name="Stingray iConcerts FHD" tvg-logo="http://reddeviliptv.com/logo/iConcerts.png" group-title="Muzicki",Stingray iConcerts FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6052.ts
+#EXTINF:-1 tvg-ID="Planeta FHD BG" tvg-name="Planeta FHD BG" tvg-logo="http://reddeviliptv.com/logo/Planeta%20BG.png" group-title="Muzicki",Planeta FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5046.ts
+#EXTINF:-1 tvg-ID="Planeta TV BG" tvg-name="Planeta TV BG" tvg-logo="http://reddeviliptv.com/logo/Planeta%20TV.png" group-title="Bugarski",Planeta TV BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5791.ts
+#EXTINF:-1 tvg-ID="BBC World" tvg-name="BBC World News FHD" tvg-logo="http://reddeviliptv.com/logo/BBC%20World%20News.png" group-title="News",BBC World News FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5361.ts
+#EXTINF:-1 tvg-ID="AL JAZEERA ENGLISH" tvg-name="Al Jazeera English FHD" tvg-logo="http://reddeviliptv.com/logo/Al%20Jazeera.png" group-title="News",Al Jazeera English FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5362.ts
+#EXTINF:-1 tvg-ID="CNN Europe" tvg-name="CNN Europe" tvg-logo="http://reddeviliptv.com/logo/CNN%20Europe.png" group-title="News",CNN Europe
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5364.ts
+#EXTINF:-1 tvg-ID="CNBC" tvg-name="CNBC Europe" tvg-logo="http://reddeviliptv.com/logo/CNBC%20Europe.png" group-title="News",CNBC Europe
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5363.ts
+#EXTINF:-1 tvg-ID="RTL DE" tvg-name="RTL DE" tvg-logo="http://reddeviliptv.com/logo/RTL%20HD%20DE.png" group-title="Nemacki (Deutsche)",RTL DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1111.ts
+#EXTINF:-1 tvg-ID="RTL 2 DE" tvg-name="RTL 2 DE" tvg-logo="http://reddeviliptv.com/logo/RTL%202%20HD%20DE.png" group-title="Nemacki (Deutsche)",RTL 2 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1110.ts
+#EXTINF:-1 tvg-ID="RTL Nitro DE" tvg-name="RTL Nitro DE" tvg-logo="http://reddeviliptv.com/logo/RTL%20Nitro%20DE.png" group-title="Nemacki (Deutsche)",RTL Nitro DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1119.ts
+#EXTINF:-1 tvg-ID="RTL Crime DE" tvg-name="RTL Crime DE" tvg-logo="http://reddeviliptv.com/logo/RTL%20Crime%20DE.png" group-title="Nemacki (Deutsche)",RTL Crime DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6269.ts
+#EXTINF:-1 tvg-ID="RTL Passion DE" tvg-name="RTL Passion DE" tvg-logo="http://reddeviliptv.com/logo/RTL%20Passion%20DE.png" group-title="Nemacki (Deutsche)",RTL Passion DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1120.ts
+#EXTINF:-1 tvg-ID="RTL Living DE" tvg-name="RTL Living DE" tvg-logo="http://reddeviliptv.com/logo/RTL%20Living%20DE.png" group-title="Nemacki (Deutsche)",RTL Living DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5880.ts
+#EXTINF:-1 tvg-ID="Super RTL DE" tvg-name="Super RTL DE" tvg-logo="http://reddeviliptv.com/logo/Super%20RTL%20DE.png" group-title="Nemacki (Deutsche)",Super RTL DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1113.ts
+#EXTINF:-1 tvg-ID="RTL Plus" tvg-name="RTL Plus" tvg-logo="http://reddeviliptv.com/logo/RTL%20Plus.png" group-title="Nemacki (Deutsche)",RTL Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4133.ts
+#EXTINF:-1 tvg-ID="ORF 1" tvg-name="ORF 1" tvg-logo="http://reddeviliptv.com/logo/ORF%201%20HD.png" group-title="Nemacki (Deutsche)",ORF 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1099.ts
+#EXTINF:-1 tvg-ID="ORF 2" tvg-name="ORF 2" tvg-logo="http://reddeviliptv.com/logo/ORF%202%20HD.png" group-title="Nemacki (Deutsche)",ORF 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1100.ts
+#EXTINF:-1 tvg-ID="ProSieben DE" tvg-name="ProSieben DE" tvg-logo="http://reddeviliptv.com/logo/ProSieben%20HD%20DE.png" group-title="Nemacki (Deutsche)",ProSieben DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1107.ts
+#EXTINF:-1 tvg-ID="ProSieben Maxx DE" tvg-name="ProSieben Maxx DE" tvg-logo="http://reddeviliptv.com/logo/ProSieben%20Maxx%20HD.png" group-title="Nemacki (Deutsche)",ProSieben Maxx DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1108.ts
+#EXTINF:-1 tvg-ID="ntv DE" tvg-name="ntv DE" tvg-logo="http://reddeviliptv.com/logo/ntv%20DE.png" group-title="Nemacki (Deutsche)",ntv DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4333.ts
+#EXTINF:-1 tvg-ID="ZDF DE" tvg-name="ZDF DE" tvg-logo="http://reddeviliptv.com/logo/ZDF%20HD%20DE.png" group-title="Nemacki (Deutsche)",ZDF DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1101.ts
+#EXTINF:-1 tvg-ID="ZDF Neo DE" tvg-name="ZDF Neo DE" tvg-logo="http://reddeviliptv.com/logo/ZDF%20Neo%20HD.png" group-title="Nemacki (Deutsche)",ZDF Neo DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1102.ts
+#EXTINF:-1 tvg-ID="VOX DE" tvg-name="VOX DE" tvg-logo="http://reddeviliptv.com/logo/VOX%20HD%20DE.png" group-title="Nemacki (Deutsche)",VOX DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1104.ts
+#EXTINF:-1 tvg-ID="Sat.1 DE" tvg-name="Sat.1 DE" tvg-logo="http://reddeviliptv.com/logo/Sat.1%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sat.1 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1105.ts
+#EXTINF:-1 tvg-ID="Sat.1 Gold DE" tvg-name="Sat.1 Gold DE" tvg-logo="http://reddeviliptv.com/logo/Sat.1%20Gold%20DE.png" group-title="Nemacki (Deutsche)",Sat.1 Gold DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6219.ts
+#EXTINF:-1 tvg-ID="Das Erste DE" tvg-name="Das Erste DE" tvg-logo="http://reddeviliptv.com/logo/Das%20Erste%20HD%20DE.png" group-title="Nemacki (Deutsche)",Das Erste DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1106.ts
+#EXTINF:-1 tvg-ID="Kabel Eins DE" tvg-name="Kabel Eins DE" tvg-logo="http://reddeviliptv.com/logo/Kabel%20Eins%20DE.png" group-title="Nemacki (Deutsche)",Kabel Eins DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1116.ts
+#EXTINF:-1 tvg-ID="One DE" tvg-name="One DE" tvg-logo="http://reddeviliptv.com/logo/One%20DE.png" group-title="Nemacki (Deutsche)",One DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1103.ts
+#EXTINF:-1 tvg-ID="Romance TV DE" tvg-name="Romance TV DE" tvg-logo="http://reddeviliptv.com/logo/Romance%20TV%20DE.png" group-title="Nemacki (Deutsche)",Romance TV DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1858.ts
+#EXTINF:-1 tvg-ID="3sat DE" tvg-name="3sat DE" tvg-logo="http://reddeviliptv.com/logo/3sat%20FHD%20DE.png" group-title="Nemacki (Deutsche)",3sat DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/979.ts
+#EXTINF:-1 tvg-ID="13th Street DE" tvg-name="13th Street DE" tvg-logo="http://reddeviliptv.com/logo/13th%20Street%20DE.png" group-title="Nemacki (Deutsche)",13th Street DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1747.ts
+#EXTINF:-1 tvg-ID="DMAX DE" tvg-name="DMAX DE" tvg-logo="http://reddeviliptv.com/logo/DMAX%20DE.png" group-title="Nemacki (Deutsche)",DMAX DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1123.ts
+#EXTINF:-1 tvg-ID="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://reddeviliptv.com/logo/National%20Geographic%20HD%20DE.png" group-title="Nemacki (Deutsche)",National Geographic DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1679.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild DE" tvg-name="Nat Geo Wild DE" tvg-logo="http://reddeviliptv.com/logo/Nat%20Geo%20Wild%20DE.png" group-title="Nemacki (Deutsche)",Nat Geo Wild DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1680.ts
+#EXTINF:-1 tvg-ID="History Channel DE" tvg-name="History Channel DE" tvg-logo="http://reddeviliptv.com/logo/History%20Channel%20DE.png" group-title="Nemacki (Deutsche)",History Channel DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1682.ts
+#EXTINF:-1 tvg-ID="Discovery Channel DE" tvg-name="Discovery Channel DE" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Channel%20DE.png" group-title="Nemacki (Deutsche)",Discovery Channel DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1681.ts
+#EXTINF:-1 tvg-ID="TLC DE" tvg-name="TLC DE" tvg-logo="http://reddeviliptv.com/logo/TLC.png" group-title="Nemacki (Deutsche)",TLC DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5973.ts
+#EXTINF:-1 tvg-ID="Syfy DE" tvg-name="Syfy DE" tvg-logo="http://reddeviliptv.com/logo/Syfy%20DE.png" group-title="Nemacki (Deutsche)",Syfy DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1124.ts
+#EXTINF:-1 tvg-ID="ZeeOnes DE" tvg-name="ZeeOne DE" tvg-logo="http://reddeviliptv.com/logo/ZeeOne%20DE.png" group-title="Nemacki (Deutsche)",ZeeOne DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5064.ts
+#EXTINF:-1 tvg-ID="Sky 1 DE" tvg-name="Sky 1 DE" tvg-logo="http://reddeviliptv.com/logo/Sky%201%20HD.png" group-title="Nemacki (Deutsche)",Sky 1 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1670.ts
+#EXTINF:-1 tvg-ID="FOX DE" tvg-name="FOX DE" tvg-logo="http://reddeviliptv.com/logo/FOX%20DE.png" group-title="Nemacki (Deutsche)",FOX DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1125.ts
+#EXTINF:-1 tvg-ID="TNT Film DE" tvg-name="TNT Film DE" tvg-logo="http://reddeviliptv.com/logo/TNT%20Film%20DE.png" group-title="Nemacki (Deutsche)",TNT Film DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1128.ts
+#EXTINF:-1 tvg-ID="TNT Serie DE" tvg-name="TNT Serie DE" tvg-logo="http://reddeviliptv.com/logo/TNT%20Serie%20DE.png" group-title="Nemacki (Deutsche)",TNT Serie DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1127.ts
+#EXTINF:-1 tvg-ID="TNT Comedy DE" tvg-name="TNT Comedy DE" tvg-logo="http://reddeviliptv.com/logo/TNT%20Comedy%20DE.png" group-title="Nemacki (Deutsche)",TNT Comedy DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1126.ts
+#EXTINF:-1 tvg-ID="KiKA DE" tvg-name="KiKA DE" tvg-logo="http://reddeviliptv.com/logo/KiKa.png" group-title="Nemacki (Deutsche)",KiKA DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1131.ts
+#EXTINF:-1 tvg-ID="Universal Channel DE" tvg-name="Universal TV DE" tvg-logo="http://reddeviliptv.com/logo/Universal%20Channel%20DE.png" group-title="Nemacki (Deutsche)",Universal TV DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1129.ts
+#EXTINF:-1 tvg-ID="TOGGO plus" tvg-name="TOGGO Plus DE" tvg-logo="http://reddeviliptv.com/logo/Toggo%20Plus.png" group-title="Nemacki (Deutsche)",TOGGO Plus DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4515.ts
+#EXTINF:-1 tvg-ID="Nickelodeon DE" tvg-name="Nick/MTV+ DE" tvg-logo="http://reddeviliptv.com/logo/Nickelodeon%20DE.png" group-title="Nemacki (Deutsche)",Nick/MTV+ DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1683.ts
+#EXTINF:-1 tvg-ID="Cartoon Network DE" tvg-name="Cartoon Network DE" tvg-logo="http://reddeviliptv.com/logo/Cartoon%20Network%20DE.png" group-title="Nemacki (Deutsche)",Cartoon Network DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1686.ts
+#EXTINF:-1 tvg-ID="Boomerang DE" tvg-name="Boomerang DE" tvg-logo="http://reddeviliptv.com/logo/Boomerang.png" group-title="Nemacki (Deutsche)",Boomerang DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6823.ts
+#EXTINF:-1 tvg-ID="Disney Channel DE" tvg-name="Disney Channel DE" tvg-logo="http://reddeviliptv.com/logo/Disney%20Channel%20DE.png" group-title="Nemacki (Deutsche)",Disney Channel DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1684.ts
+#EXTINF:-1 tvg-ID="Sky Action DE" tvg-name="Sky Action DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Action%20DE.png" group-title="Nemacki (Deutsche)",Sky Action DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1650.ts
+#EXTINF:-1 tvg-ID="Sky Atlantic DE" tvg-name="Sky Atlantic DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Atlantic%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sky Atlantic DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1748.ts
+#EXTINF:-1 tvg-ID="Sky Cinema DE" tvg-name="Sky Premieren DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Cinema%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sky Premieren DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1655.ts
+#EXTINF:-1 tvg-ID="Sky Cinema +24 DE" tvg-name="Sky Premieren +24 DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Cinema%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sky Premieren +24 DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7174.ts
+#EXTINF:-1 tvg-ID="Sky Hits DE" tvg-name="Sky Best Of DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Cinema%20Hits%20DE.png" group-title="Nemacki (Deutsche)",Sky Best Of DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1651.ts
+#EXTINF:-1 tvg-ID="Sky Comedy DE" tvg-name="Sky Thriller DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Comedy%20DE.png" group-title="Nemacki (Deutsche)",Sky Thriller DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1654.ts
+#EXTINF:-1 tvg-ID="Sky Special DE" tvg-name="Sky Special DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Cinema%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sky Special DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7186.ts
+#EXTINF:-1 tvg-ID="Sky Classics DE" tvg-name="Sky Classics DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Cinema%20HD%20DE.png" group-title="Nemacki (Deutsche)",Sky Classics DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7187.ts
+#EXTINF:-1 tvg-ID="Sky Family DE" tvg-name="Sky Family DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Family%20DE.png" group-title="Nemacki (Deutsche)",Sky Family DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1652.ts
+#EXTINF:-1 tvg-ID="Sky Krimi DE" tvg-name="Sky Krimi DE" tvg-logo="http://reddeviliptv.com/logo/Sky%20Krimi%20DE.png" group-title="Nemacki (Deutsche)",Sky Krimi DE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/1754.ts
+#EXTINF:-1 tvg-ID="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="http://reddeviliptv.com/logo/ERT%201%20GR.png" group-title="Grcki",ERT 1 GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4857.ts
+#EXTINF:-1 tvg-ID="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="http://reddeviliptv.com/logo/ERT%202%20GR.png" group-title="Grcki",ERT 2 GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4858.ts
+#EXTINF:-1 tvg-ID="ERT 3 GR" tvg-name="ERT 3 GR" tvg-logo="http://reddeviliptv.com/logo/ERT%203%20GR.png" group-title="Grcki",ERT 3 GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5094.ts
+#EXTINF:-1 tvg-ID="ERT Sports FHD" tvg-name="ERT Sports FHD" tvg-logo="http://reddeviliptv.com/logo/ERT%20Sports%20FHD.png" group-title="Grcki",ERT Sports FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5920.ts
+#EXTINF:-1 tvg-ID="Edge Sport FHD GR" tvg-name="Edge Sport FHD GR" tvg-logo="http://reddeviliptv.com/logo/Edge%20Sport%20FHD%20GR.png" group-title="Grcki",Edge Sport FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6169.ts
+#EXTINF:-1 tvg-ID="ANT 1 FHD GR" tvg-name="ANT 1 FHD GR" tvg-logo="http://reddeviliptv.com/logo/ANT1%20HD.png" group-title="Grcki",ANT 1 FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6002.ts
+#EXTINF:-1 tvg-ID="Alpha FHD GR" tvg-name="Alpha FHD GR" tvg-logo="http://reddeviliptv.com/logo/ALPHA%20HD.png" group-title="Grcki",Alpha FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6003.ts
+#EXTINF:-1 tvg-ID="Skai FHD GR" tvg-name="Skai FHD GR" tvg-logo="http://reddeviliptv.com/logo/Skai%20GR.png" group-title="Grcki",Skai FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6004.ts
+#EXTINF:-1 tvg-ID="Star FHD GR" tvg-name="Star FHD GR" tvg-logo="http://reddeviliptv.com/logo/Star%20GR.png" group-title="Grcki",Star FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6031.ts
+#EXTINF:-1 tvg-ID="Open Beyond GR" tvg-name="Open Beyond FHD GR" tvg-logo="http://reddeviliptv.com/logo/OPEN%20BEYOND%20HD.png" group-title="Grcki",Open Beyond FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6047.ts
+#EXTINF:-1 tvg-ID="vouli.gr" tvg-name="Kanali Voulis GR" tvg-logo="http://reddeviliptv.com/logo/Kanali%20Voulis%20GR.png" group-title="Grcki",Kanali Voulis GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5095.ts
+#EXTINF:-1 tvg-ID="Macedonia TV GR" tvg-name="Macedonia TV FHD GR" tvg-logo="http://reddeviliptv.com/logo/Macedonia%20TV%20GR.png" group-title="Grcki",Macedonia TV FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5146.ts
+#EXTINF:-1 tvg-ID="MEGA FHD GR" tvg-name="MEGA FHD GR" tvg-logo="http://reddeviliptv.com/logo/Mega%20GR.png" group-title="Grcki",MEGA FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6838.ts
+#EXTINF:-1 tvg-ID="One FHD GR" tvg-name="One FHD GR" tvg-logo="http://reddeviliptv.com/logo/One%20FHD%20GR.png" group-title="Grcki",One FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6211.ts
+#EXTINF:-1 tvg-ID="Nautical Channel FHD GR" tvg-name="Nautical Channel FHD GR" tvg-logo="http://reddeviliptv.com/logo/Nautical%20GR.png" group-title="Grcki",Nautical Channel FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7144.ts
+#EXTINF:-1 tvg-ID="Motorvision FHD GR" tvg-name="Motorvision FHD GR" tvg-logo="http://reddeviliptv.com/logo/MotorVision.png" group-title="Grcki",Motorvision FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7145.ts
+#EXTINF:-1 tvg-ID="E! FHD GR" tvg-name="E! FHD GR" tvg-logo="http://reddeviliptv.com/logo/E!%20FHD.png" group-title="Grcki",E! FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7143.ts
+#EXTINF:-1 tvg-ID="Crime and Investigation GR" tvg-name="Crime and Investigation GR" tvg-logo="http://reddeviliptv.com/logo/Crime%20&%20Investigation.png" group-title="Grcki",Crime and Investigation GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7146.ts
+#EXTINF:-1 tvg-ID="Cosmote Cinema 1 FHD" tvg-name="Cosmote Cinema 1 FHD" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20Cinema%201.png" group-title="Grcki",Cosmote Cinema 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6035.ts
+#EXTINF:-1 tvg-ID="Cosmote Cinema 2 FHD" tvg-name="Cosmote Cinema 2 FHD" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20Cinema%202.png" group-title="Grcki",Cosmote Cinema 2 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6036.ts
+#EXTINF:-1 tvg-ID="Cosmote Cinema 3" tvg-name="Cosmote Cinema 3" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20Cinema%203.png" group-title="Grcki",Cosmote Cinema 3
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6037.ts
+#EXTINF:-1 tvg-ID="Cosmote Cinema Oscars FHD" tvg-name="Cosmote Series Marathon FHD" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20Series%20Marathon.png" group-title="Grcki",Cosmote Series Marathon FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6404.ts
+#EXTINF:-1 tvg-ID="Cosmote Series FHD" tvg-name="Cosmote Series FHD" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20Cinema%204.png" group-title="Grcki",Cosmote Series FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6038.ts
+#EXTINF:-1 tvg-ID="Village Cinema FHD GR" tvg-name="Village Cinema FHD GR" tvg-logo="http://reddeviliptv.com/logo/Village%20Cinema%20FHD%20GR.png" group-title="Grcki",Village Cinema FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6192.ts
+#EXTINF:-1 tvg-ID="Fox FHD GR" tvg-name="Fox FHD GR" tvg-logo="http://reddeviliptv.com/logo/FOX.png" group-title="Grcki",Fox FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6168.ts
+#EXTINF:-1 tvg-ID="Fox Life FHD GR" tvg-name="Fox Life FHD GR" tvg-logo="http://reddeviliptv.com/logo/FOX%20Life.png" group-title="Grcki",Fox Life FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6162.ts
+#EXTINF:-1 tvg-ID="TCM FHD GR" tvg-name="TCM FHD GR" tvg-logo="http://reddeviliptv.com/logo/TCM%20FHD%20GR.png" group-title="Grcki",TCM FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6159.ts
+#EXTINF:-1 tvg-ID="Animal Planet GR" tvg-name="Animal Planet GR" tvg-logo="http://reddeviliptv.com/logo/Animal%20Planet.png" group-title="Grcki",Animal Planet GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6320.ts
+#EXTINF:-1 tvg-ID="Discovery Channel GR" tvg-name="Discovery Channel GR" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Channel.png" group-title="Grcki",Discovery Channel GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6321.ts
+#EXTINF:-1 tvg-ID="Discovery Science GR" tvg-name="Discovery Science GR" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Science.png" group-title="Grcki",Discovery Science GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6322.ts
+#EXTINF:-1 tvg-ID="National Geographic FHD GR" tvg-name="National Geographic FHD GR" tvg-logo="http://reddeviliptv.com/logo/National%20Geographic%20HD.png" group-title="Grcki",National Geographic FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6158.ts
+#EXTINF:-1 tvg-ID="Nat Geo + FHD GR" tvg-name="Nat Geo + FHD GR" tvg-logo="http://reddeviliptv.com/logo/FOX%20Sports%20FHD%20GR.png" group-title="Grcki",Nat Geo + FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6252.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild FHD GR" tvg-name="Nat Geo Wild FHD GR" tvg-logo="http://reddeviliptv.com/logo/Nat%20Geo%20Wild%20HD.png" group-title="Grcki",Nat Geo Wild FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6160.ts
+#EXTINF:-1 tvg-ID="BBC Earth FHD GR" tvg-name="BBC Earth FHD GR" tvg-logo="http://reddeviliptv.com/logo/BBC%20Earth%20FHD.png" group-title="Grcki",BBC Earth FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6163.ts
+#EXTINF:-1 tvg-ID="Cosmote History FHD GR" tvg-name="Cosmote History FHD GR" tvg-logo="http://reddeviliptv.com/logo/Cosmote%20History%20FHD%20GR.png" group-title="Grcki",Cosmote History FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6161.ts
+#EXTINF:-1 tvg-ID="Outdoor Channel FHD GR" tvg-name="Outdoor Channel FHD GR" tvg-logo="http://reddeviliptv.com/logo/Outdoor%20Channel.png" group-title="Grcki",Outdoor Channel FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6170.ts
+#EXTINF:-1 tvg-ID="Travel Channel FHD GR" tvg-name="Travel Channel FHD GR" tvg-logo="http://reddeviliptv.com/logo/Travel%20Channel.png" group-title="Grcki",Travel Channel FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6166.ts
+#EXTINF:-1 tvg-ID="Food Network FHD GR" tvg-name="Food Network FHD GR" tvg-logo="http://reddeviliptv.com/logo/Food%20Network.png" group-title="Grcki",Food Network FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6164.ts
+#EXTINF:-1 tvg-ID="Fine Living FHD GR" tvg-name="Fine Living FHD GR" tvg-logo="http://reddeviliptv.com/logo/Fine%20Living.png" group-title="Grcki",Fine Living FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6165.ts
+#EXTINF:-1 tvg-ID="MAD Hits GR FHD" tvg-name="MAD Hits GR FHD" tvg-logo="http://reddeviliptv.com/logo/MAD%20Hits%20GR%20FHD.png" group-title="Grcki",MAD Hits GR FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6196.ts
+#EXTINF:-1 tvg-ID="MAD TV GR" tvg-name="MAD TV GR" tvg-logo="http://reddeviliptv.com/logo/MAD%20GR.png" group-title="Grcki",MAD TV GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6214.ts
+#EXTINF:-1 tvg-ID="Nickelodeon FHD GR" tvg-name="Nickelodeon FHD GR" tvg-logo="http://reddeviliptv.com/logo/Nickelodeon.png" group-title="Grcki",Nickelodeon FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6167.ts
+#EXTINF:-1 tvg-ID="Disney Junior GR" tvg-name="Disney Junior GR" tvg-logo="http://reddeviliptv.com/logo/Disney%20Junior.png" group-title="Grcki",Disney Junior GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6193.ts
+#EXTINF:-1 tvg-ID="Disney XD GR" tvg-name="Disney XD GR" tvg-logo="http://reddeviliptv.com/logo/Disney%20XD.png" group-title="Grcki",Disney XD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6266.ts
+#EXTINF:-1 tvg-ID="Disney Channel GR" tvg-name="Disney Channel GR" tvg-logo="http://reddeviliptv.com/logo/Disney%20Channel.png" group-title="Grcki",Disney Channel GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6265.ts
+#EXTINF:-1 tvg-ID="novacinema 1 FHD GR" tvg-name="novacinema 1 FHD GR" tvg-logo="http://reddeviliptv.com/logo/Nova%20Cinema%20GR.jpg" group-title="Grcki",novacinema 1 FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7140.ts
+#EXTINF:-1 tvg-ID="novacinema 2 FHD GR" tvg-name="novacinema 2 FHD GR" tvg-logo="http://reddeviliptv.com/logo/Nova%20Cinema%20GR.jpg" group-title="Grcki",novacinema 2 FHD GR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/7141.ts
+#EXTINF:-1 tvg-ID="БНТ 1 FHD BG" tvg-name="БНТ 1 FHD BG" tvg-logo="http://reddeviliptv.com/logo/BNT%201%20FHD%20BG.png" group-title="Bugarski",БНТ 1 FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5595.ts
+#EXTINF:-1 tvg-ID="БНТ 2 FHD BG" tvg-name="БНТ 2 FHD BG" tvg-logo="http://reddeviliptv.com/logo/BNT%202%20FHD%20BG.png" group-title="Bugarski",БНТ 2 FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5601.ts
+#EXTINF:-1 tvg-ID="БНТ 3 FHD BG" tvg-name="БНТ 3 FHD BG" tvg-logo="http://reddeviliptv.com/logo/BNT%203%20FHD%20BG.png" group-title="Bugarski",БНТ 3 FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6040.ts
+#EXTINF:-1 tvg-ID="БНТ 4 FHD BG" tvg-name="БНТ 4 FHD BG" tvg-logo="http://reddeviliptv.com/logo/BNT%204%20FHD%20BG.png" group-title="Bugarski",БНТ 4 FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5055.ts
+#EXTINF:-1 tvg-ID="BTV FHD BG" tvg-name="bTV BG" tvg-logo="http://reddeviliptv.com/logo/BTV%20BG.png" group-title="Bugarski",bTV BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5052.ts
+#EXTINF:-1 tvg-ID="bTV Action FHD BG" tvg-name="bTV Action FHD BG" tvg-logo="http://reddeviliptv.com/logo/BTV%20Action%20HD%20BG.png" group-title="Bugarski",bTV Action FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5051.ts
+#EXTINF:-1 tvg-ID="bTV Cinema FHD BG" tvg-name="bTV Cinema FHD BG" tvg-logo="http://reddeviliptv.com/logo/BTV%20Cinema%20BG.png" group-title="Bugarski",bTV Cinema FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5053.ts
+#EXTINF:-1 tvg-ID="bTV Comedy FHD BG" tvg-name="bTV Comedy FHD BG" tvg-logo="http://reddeviliptv.com/logo/BTV%20Comedy%20BG.png" group-title="Bugarski",bTV Comedy FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5596.ts
+#EXTINF:-1 tvg-ID="Канал 3 FHD BG" tvg-name="Канал 3 BG" tvg-logo="http://reddeviliptv.com/logo/Kanal%203%20FHD%20BG.png" group-title="Bugarski",Канал 3 BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5049.ts
+#EXTINF:-1 tvg-ID="Diema BG" tvg-name="Diema BG" tvg-logo="http://reddeviliptv.com/logo/Diema%20BG.png" group-title="Bugarski",Diema BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5048.ts
+#EXTINF:-1 tvg-ID="Diema Family BG" tvg-name="Diema Family BG" tvg-logo="http://reddeviliptv.com/logo/Diema%20Family%20BG.png" group-title="Bugarski",Diema Family BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5050.ts
+#EXTINF:-1 tvg-ID="NOVA BG" tvg-name="NOVA BG" tvg-logo="http://reddeviliptv.com/logo/NOVA%20BG.png" group-title="Bugarski",NOVA BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5434.ts
+#EXTINF:-1 tvg-ID="FOX FHD BG" tvg-name="FOX FHD BG" tvg-logo="http://reddeviliptv.com/logo/FOX.png" group-title="Bugarski",FOX FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6076.ts
+#EXTINF:-1 tvg-ID="FOX Life FHD BG" tvg-name="FOX Life FHD BG" tvg-logo="http://reddeviliptv.com/logo/FOX%20Life.png" group-title="Bugarski",FOX Life FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5593.ts
+#EXTINF:-1 tvg-ID="FOX Crime FHD BG" tvg-name="FOX Crime FHD BG" tvg-logo="http://reddeviliptv.com/logo/FOX%20Crime.png" group-title="Bugarski",FOX Crime FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5594.ts
+#EXTINF:-1 tvg-ID="B1B Action BG" tvg-name="B1B Action BG" tvg-logo="http://reddeviliptv.com/logo/B1B%20Action%20BG.png" group-title="Bugarski",B1B Action BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5054.ts
+#EXTINF:-1 tvg-ID="Discovery Channel FHD BG" tvg-name="Discovery Channel BG" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Channel.png" group-title="Bugarski",Discovery Channel BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5599.ts
+#EXTINF:-1 tvg-ID="National Geographic FHD BG" tvg-name="National Geographic FHD BG" tvg-logo="http://reddeviliptv.com/logo/National%20Geographic%20HD.png" group-title="Bugarski",National Geographic FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5600.ts
+#EXTINF:-1 tvg-ID="Animal Planet BG" tvg-name="Animal Planet FHD BG" tvg-logo="http://reddeviliptv.com/logo/Animal%20Planet%20HD.png" group-title="Bugarski",Animal Planet FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5586.ts
+#EXTINF:-1 tvg-ID="Movie Star FHD BG" tvg-name="Movie Star FHD BG" tvg-logo="http://reddeviliptv.com/logo/Movie%20Star%20FHD%20BG.png" group-title="Bugarski",Movie Star FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5590.ts
+#EXTINF:-1 tvg-ID="Fen TV FHD BG" tvg-name="Fen TV FHD BG" tvg-logo="http://reddeviliptv.com/logo/Fen%20TV%20FHD%20BG.png" group-title="Bugarski",Fen TV FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5591.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild FHD BG" tvg-name="Nat Geo Wild FHD BG" tvg-logo="http://reddeviliptv.com/logo/Nat%20Geo%20Wild.png" group-title="Bugarski",Nat Geo Wild FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5592.ts
+#EXTINF:-1 tvg-ID="Disney Channel BG" tvg-name="Disney Channel BG" tvg-logo="http://reddeviliptv.com/logo/Disney%20Channel.png" group-title="Bugarski",Disney Channel BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5588.ts
+#EXTINF:-1 tvg-ID="Cartoon Network BG" tvg-name="Cartoon Network BG" tvg-logo="http://reddeviliptv.com/logo/Cartoon%20Network.png" group-title="Bugarski",Cartoon Network BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5587.ts
+#EXTINF:-1 tvg-ID="Nickelodeon BG" tvg-name="Nickelodeon BG" tvg-logo="http://reddeviliptv.com/logo/Nickelodeon.png" group-title="Bugarski",Nickelodeon BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5589.ts
+#EXTINF:-1 tvg-ID="Wness TV FHD BG" tvg-name="Wness TV FHD BG" tvg-logo="http://reddeviliptv.com/logo/Wness%20TV%20FHD%20BG.png" group-title="Bugarski",Wness TV FHD BG
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5605.ts
+#EXTINF:-1 tvg-ID="Россия 1" tvg-name="Россия 1 FHD" tvg-logo="http://reddeviliptv.com/logo/Russia1.png" group-title="Ruski",Россия 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6255.ts
+#EXTINF:-1 tvg-ID="ПервыйFHD" tvg-name="Первый FHD" tvg-logo="http://reddeviliptv.com/logo/Perviy.png" group-title="Ruski",Первый FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТНТ FHD" tvg-logo="http://reddeviliptv.com/logo/THT.png" group-title="Ruski",ТНТ FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6257.ts
+#EXTINF:-1 tvg-ID="ViP PremiereFHD" tvg-name="VIP Premiere FHD RU" tvg-logo="http://reddeviliptv.com/logo/VIP%20Premiere.png" group-title="Ruski",VIP Premiere FHD RU
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6258.ts
+#EXTINF:-1 tvg-ID="ViP MegahitFHD" tvg-name="VIP Megahit FHD RU" tvg-logo="http://reddeviliptv.com/logo/VIP%20Megahit.png" group-title="Ruski",VIP Megahit FHD RU
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6259.ts
+#EXTINF:-1 tvg-ID="Rai 1 FHD" tvg-name="Rai 1" tvg-logo="http://reddeviliptv.com/logo/Rai%201.png" group-title="Italijanski",Rai 1
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4200.ts
+#EXTINF:-1 tvg-ID="Rai 2 FHD" tvg-name="Rai 2" tvg-logo="http://reddeviliptv.com/logo/Rai%202.png" group-title="Italijanski",Rai 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4201.ts
+#EXTINF:-1 tvg-ID="Rai 3 FHD" tvg-name="Rai 3 FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%203.png" group-title="Italijanski",Rai 3 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4202.ts
+#EXTINF:-1 tvg-ID="Rai 4" tvg-name="Rai 4" tvg-logo="http://reddeviliptv.com/logo/Rai%204.png" group-title="Italijanski",Rai 4
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4203.ts
+#EXTINF:-1 tvg-ID="Rai 5" tvg-name="Rai Sport+ FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%205%20FHD.png" group-title="Italijanski",Rai Sport+ FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4209.ts
+#EXTINF:-1 tvg-ID="Italia 1" tvg-name="Italia 1 FHD" tvg-logo="http://reddeviliptv.com/logo/Italia%201.png" group-title="Italijanski",Italia 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4204.ts
+#EXTINF:-1 tvg-ID="Rete 4" tvg-name="Rete 4 FHD" tvg-logo="http://reddeviliptv.com/logo/Rete%204.png" group-title="Italijanski",Rete 4 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4205.ts
+#EXTINF:-1 tvg-ID="Canale 5" tvg-name="Canale 5 FHD" tvg-logo="http://reddeviliptv.com/logo/La%205.png" group-title="Italijanski",Canale 5 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4211.ts
+#EXTINF:-1 tvg-ID="Canale 20" tvg-name="Canale 20 FHD" tvg-logo="http://reddeviliptv.com/logo/Canale%2020.png" group-title="Italijanski",Canale 20 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4208.ts
+#EXTINF:-1 tvg-ID="Rai Sport" tvg-name="Rai Sport" tvg-logo="http://reddeviliptv.com/logo/Rai%20Sport%20FHD.png" group-title="Italijanski",Rai Sport
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4663.ts
+#EXTINF:-1 tvg-ID="Rai Premium" tvg-name="Rai Premium FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%20Premium%20FHD.png" group-title="Italijanski",Rai Premium FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4664.ts
+#EXTINF:-1 tvg-ID="Rai Movie FHD" tvg-name="Rai Movie FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%20Movie.png" group-title="Italijanski",Rai Movie FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4206.ts
+#EXTINF:-1 tvg-ID="Rai YoYo" tvg-name="Rai Yoyo FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%20Yoyo.png" group-title="Italijanski",Rai Yoyo FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4207.ts
+#EXTINF:-1 tvg-ID="Rai Storia" tvg-name="Rai Storia FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%20Storia%20FHD.png" group-title="Italijanski",Rai Storia FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4210.ts
+#EXTINF:-1 tvg-ID="Rai Scuola" tvg-name="Rai Scuola FHD" tvg-logo="http://reddeviliptv.com/logo/Rai%20Scuola%20FHD.png" group-title="Italijanski",Rai Scuola FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4665.ts
+#EXTINF:-1 tvg-ID="TRT 1 FHD" tvg-name="TRT 1 FHD" tvg-logo="http://reddeviliptv.com/logo/TRT%201.png" group-title="Turski",TRT 1 FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5577.ts
+#EXTINF:-1 tvg-ID="ATV FHD TUR" tvg-name="ATV FHD TUR" tvg-logo="http://reddeviliptv.com/logo/ATV%20HD%20TUR.png" group-title="Turski",ATV FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4777.ts
+#EXTINF:-1 tvg-ID="Show TV FHD TUR" tvg-name="Show TV FHD TUR" tvg-logo="http://reddeviliptv.com/logo/Show%20TV%20HD%20TUR.png" group-title="Turski",Show TV FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4775.ts
+#EXTINF:-1 tvg-ID="NTV FHD TUR" tvg-name="NTV FHD TUR" tvg-logo="http://reddeviliptv.com/logo/NTV%20HD%20TUR.png" group-title="Turski",NTV FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4779.ts
+#EXTINF:-1 tvg-ID="Kanal D FHD TUR" tvg-name="Kanal D FHD TUR" tvg-logo="http://reddeviliptv.com/logo/Kanal%20D%20HD%20TUR.png" group-title="Turski",Kanal D FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4780.ts
+#EXTINF:-1 tvg-ID="TV8 FHD TUR" tvg-name="TV8 FHD TUR" tvg-logo="http://reddeviliptv.com/logo/TV8%20HD%20TUR.png" group-title="Turski",TV8 FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4778.ts
+#EXTINF:-1 tvg-ID="STAR TV FHD TUR" tvg-name="STAR TV FHD TUR" tvg-logo="http://reddeviliptv.com/logo/STAR%20TV%20TUR.png" group-title="Turski",STAR TV FHD TUR
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4776.ts
+#EXTINF:-1 tvg-ID="beIN MOVIES Turk FHD" tvg-name="MovieSmart Turk FHD" tvg-logo="http://reddeviliptv.com/logo/beIN%20MOVIES%20Turk.png" group-title="Turski",MovieSmart Turk FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5585.ts
+#EXTINF:-1 tvg-ID="beIN MOVIES Premiere 2 FHD" tvg-name="beIN MOVIES Premiere FHD" tvg-logo="http://reddeviliptv.com/logo/beIN%20MOVIES%20Premiere.png" group-title="Turski",beIN MOVIES Premiere FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5583.ts
+#EXTINF:-1 tvg-ID="beIN MOVIES Action 2 FHD" tvg-name="MovieSmart Action FHD" tvg-logo="http://reddeviliptv.com/logo/beIN%20MOVIES%20Action.png" group-title="Turski",MovieSmart Action FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vizion Plus" tvg-logo="http://reddeviliptv.com/logo/Vizion%20Plus.png" group-title="Albanski",Vizion Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV21 Macedonia" tvg-logo="http://reddeviliptv.com/logo/TV21%20Macedonia%20ALB.png" group-title="Albanski",TV21 Macedonia
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Uskana" tvg-logo="http://reddeviliptv.com/logo/TV%20Uskana.png" group-title="Albanski",TV Uskana
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Shenja FHD" tvg-logo="http://reddeviliptv.com/logo/TV%20Shenja.png" group-title="Albanski",TV Shenja FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alb Music HD ALB" tvg-logo="http://reddeviliptv.com/logo/TV%20Gurra.jpg" group-title="Albanski",Alb Music HD ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Drini" tvg-logo="http://reddeviliptv.com/logo/TV%20Drini.png" group-title="Albanski",TV Drini
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Koha ALB" tvg-logo="http://reddeviliptv.com/logo/Tv%202.png" group-title="Albanski",TV Koha ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4824.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Comedy ALB" tvg-logo="http://reddeviliptv.com/logo/RTSH%201.png" group-title="Albanski",Film Comedy ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Action HD ALB" tvg-logo="http://reddeviliptv.com/logo/Opoja%20TV.png" group-title="Albanski",Film Action HD ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Tring" tvg-logo="http://reddeviliptv.com/logo/Tring%20Tring.png" group-title="Albanski",Tring Tring
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4927.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Super FHD" tvg-logo="http://reddeviliptv.com/logo/Tring%20Super.png" group-title="Albanski",Tring Super FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring World ALB" tvg-logo="http://reddeviliptv.com/logo/Tring%20Smile%20ALB.png" group-title="Albanski",Tring World ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Shqip" tvg-logo="http://reddeviliptv.com/logo/Tring%20Shqip%20ALB.png" group-title="Albanski",Tring Shqip
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4928.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Planet" tvg-logo="http://reddeviliptv.com/logo/Tring%20Planet%20ALB.png" group-title="Albanski",Tring Planet
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Life" tvg-logo="http://reddeviliptv.com/logo/Tring%20Life.png" group-title="Albanski",Tring Life
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring History" tvg-logo="http://reddeviliptv.com/logo/Tring%20History%20ALB.png" group-title="Albanski",Tring History
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4932.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Comedy" tvg-logo="http://reddeviliptv.com/logo/Tring%20Comedy.png" group-title="Albanski",Tring Comedy
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4913.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top News" tvg-logo="http://reddeviliptv.com/logo/Top%20News.png" group-title="Albanski",Top News
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Channel" tvg-logo="http://reddeviliptv.com/logo/Top%20Channel.png" group-title="Albanski",Top Channel
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4821.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXP SHKENCE" tvg-logo="http://reddeviliptv.com/logo/Tirana%20Tv.png" group-title="Albanski",EXP SHKENCE
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4820.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 1 HD ALB" tvg-logo="http://reddeviliptv.com/logo/T%20HD.png" group-title="Albanski",RTK 1 HD ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 2 ALB" tvg-logo="http://reddeviliptv.com/logo/Dobra%20TV%20Islam.png" group-title="Albanski",RTK 2 ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4819.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Living HD ALB" tvg-logo="http://reddeviliptv.com/logo/RTV%2021%20Plus.png" group-title="Albanski",Living HD ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4817.ts
+#EXTINF:-1 tvg-ID="" tvg-name="News24 ALB" tvg-logo="http://reddeviliptv.com/logo/RTV%2021.png" group-title="Albanski",News24 ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4816.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC News ALB" tvg-logo="http://reddeviliptv.com/logo/RTK%201.png" group-title="Albanski",ABC News ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORA News ALB" tvg-logo="http://reddeviliptv.com/logo/RTK%202.png" group-title="Albanski",ORA News ALB
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4813.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MRT 2" tvg-logo="http://reddeviliptv.com/logo/MRT%202.png" group-title="Albanski",MRT 2
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4818.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Klan Plus" tvg-logo="http://reddeviliptv.com/logo/TV%20Klan%202.png" group-title="Albanski",TV Klan Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Klan" tvg-logo="http://reddeviliptv.com/logo/TV%20Klan.png" group-title="Albanski",TV Klan
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Jolly FHD" tvg-logo="http://reddeviliptv.com/logo/Tring%20Jolly%20FHD.png" group-title="Albanski",Tring Jolly FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Folk Plus" tvg-logo="http://reddeviliptv.com/logo/Folk%20Plus.png" group-title="Albanski",Folk Plus
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4841.ts
+#EXTINF:-1 tvg-ID="Dusk TV" tvg-name="Private FHD" tvg-logo="http://reddeviliptv.com/logo/Dusk%20TV.png" group-title="XXX +18",Private FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/248.ts
+#EXTINF:-1 tvg-ID="Dorcel FHD" tvg-name="Vivid TV" tvg-logo="http://reddeviliptv.com/logo/Dorcel.png" group-title="XXX +18",Vivid TV
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/247.ts
+#EXTINF:-1 tvg-ID="Dorcel XXX FHD" tvg-name="Dorcel XXX FHD" tvg-logo="http://reddeviliptv.com/logo/Dorcel%20XXX%20FHD.png" group-title="XXX +18",Dorcel XXX FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6044.ts
+#EXTINF:-1 tvg-ID="Redlight FHD" tvg-name="Redlight FHD" tvg-logo="http://reddeviliptv.com/logo/Redlight%20HD.png" group-title="XXX +18",Redlight FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5130.ts
+#EXTINF:-1 tvg-ID="XY Plus FHD" tvg-name="XY Plus FHD" tvg-logo="http://reddeviliptv.com/logo/XY%20Plus%20FHD.png" group-title="XXX +18",XY Plus FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6041.ts
+#EXTINF:-1 tvg-ID="XY Mix FHD" tvg-name="XY Mix FHD" tvg-logo="http://reddeviliptv.com/logo/XY%20Plus%20FHD.png" group-title="XXX +18",XY Mix FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/6042.ts
+#EXTINF:-1 tvg-ID="EROXXX FHD" tvg-name="EROXXX FHD" tvg-logo="http://reddeviliptv.com/logo/EROXXX%20FHD.png" group-title="XXX +18",EROXXX FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5256.ts
+#EXTINF:-1 tvg-ID="Hustler" tvg-name="Hustler FHD" tvg-logo="http://reddeviliptv.com/logo/Hustler%20HD.png" group-title="XXX +18",Hustler FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/5253.ts
+#EXTINF:-1 tvg-ID="Penthouse Gold 1 FHD" tvg-name="XY MAX FHD" tvg-logo="http://reddeviliptv.com/logo/Hustler%20TV.png" group-title="XXX +18",XY MAX FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4726.ts
+#EXTINF:-1 tvg-ID="XXX Stars FHD" tvg-name="XXX Stars FHD" tvg-logo="http://reddeviliptv.com/logo/Stars%20XXX%20HD.png" group-title="XXX +18",XXX Stars FHD
+http://reddevils.biz:8000/live/bV2ZChntzW/ln53gObXye/4381.ts
+#EXTINF:-1 tvg-ID="Brazzers TV" tvg-name="Evil Angel FHD" tvg-logo="http://reddeviliptv.com/logo/Brazzers%20TV.png" group-title="XXX +18",Evil Angel FHD
